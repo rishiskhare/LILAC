@@ -59,7 +59,10 @@ Please first download the large-scale datasets for log parsing in LogPub from [Z
 
 - Online Log Parsing
 
-    Please first add an OpenAI API key (`sk-xxxx`) into the second line of openai_key.txt.
+    Please create a .env file in the root directory and insert 3 key-value pairs:
+    - OPENAI_BASE="https://api.openai.com/v1"
+    - OPENAI_API_KEY="sk-" (OpenAI API key (`sk-xxxx`))
+    - GEMINI_API_KEY="gemini_key_here"
 
     We provide a one-click script to run LILAC for online log parsing.
 
