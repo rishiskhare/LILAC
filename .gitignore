@@ -1,0 +1,17 @@
+.env
+full_dataset/Apache/
+full_dataset/BGL/
+full_dataset/HDFS/
+full_dataset/HPC/
+full_dataset/Hadoop/
+full_dataset/HealthApp/
+full_dataset/Linux/
+full_dataset/Mac/
+full_dataset/OpenSSH/
+full_dataset/OpenStack/
+full_dataset/Proxifier/
+full_dataset/Spark/
+full_dataset/Thunderbird/
+full_dataset/Zookeeper/
+result/
+temp/
