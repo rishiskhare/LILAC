@@ -1,8 +1,8 @@
-{"query": "Got job 122 (collect at IPLoM.py:673) with 13 output partitions", "answer": "Got job {variables} (collect at {variables}) with {variables} output partitions"}
-{"query": "Setting up ContainerLaunchContext", "answer": "Setting up ContainerLaunchContext"}
-{"query": "Unregistering ApplicationMaster with SUCCEEDED", "answer": "Unregistering ApplicationMaster with {variables}"}
-{"query": "Asked to send map output locations for shuffle 19 to mesos-slave-20:49750", "answer": "Asked to send map output locations for shuffle {variables} to {variables}"}
-{"query": "Stopped Spark web UI at http://10.10.34.23:33134", "answer": "Stopped Spark web UI at {variables}"}
-{"query": "Lost task 8.3 in stage 2.0 (TID 175, mesos-slave-26): ExecutorLostFailure (executor 19 exited caused by one of the running tasks) Reason: Container killed by YARN for exceeding memory limits. 57.2 GB of 46.2 GB virtual memory used. Consider boosting spark.yarn.executor.memoryOverhead.", "answer": "Lost task {variables} in stage {variables} (TID {variables}, {variables}): ExecutorLostFailure (executor {variables} exited caused by one of the running tasks) Reason: Container killed by {variables} for exceeding memory limits. {variables} of {variables} {variables} memory used. Consider boosting {variables}."}
-{"query": "Failed to fetch remote block broadcast_6_piece272 from BlockManagerId(6, mesos-slave-11, 54378) (failed attempt 1)", "answer": "Failed to fetch remote block {variables} from BlockManagerId({variables}, {variables}, {variables}) (failed attempt {variables})"}
-{"query": "Submitting ResultStage 2 (PythonRDD[5] at RDD at PythonRDD.scala:43), which has no missing parents", "answer": "Submitting ResultStage {variables} ({variables} at {variables}), which has no missing parents"}
+{"query": "Exception while beginning fetch of 1 outstanding blocks (after 1 retries)", "answer": "Exception while beginning fetch of {variables} outstanding blocks (after {variables} retries)"}
+{"query": "Saved output of task 'attempt_201706081749_2414_m_000016_96575' to hdfs://10.10.34.11:9000/pjhe/test/32/_temporary/0/task_201706081749_2414_m_000016", "answer": "Saved output of task {variables} to {variables}"}
+{"query": "Starting job: count at IPLoM.py:561", "answer": "Starting job: count at {variables}"}
+{"query": "Adding filter: org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter", "answer": "Adding filter: {variables}"}
+{"query": "SparkListenerBus has already stopped! Dropping event SparkListenerBlockUpdated(BlockUpdatedInfo(BlockManagerId(21, mesos-slave-13, 57719),broadcast_5_piece323,StorageLevel(false, true, false, false, 1),4194304,0,0))", "answer": "SparkListenerBus has already stopped! Dropping event {variables}"}
+{"query": "waiting: Set(ResultStage 61)", "answer": "waiting: Set(ResultStage {variables})"}
+{"query": "Started 0 remote fetches in 7 ms", "answer": "Started {variables} remote fetches in {variables} ms"}
+{"query": "RECEIVED SIGNAL 15: SIGTERM", "answer": "RECEIVED SIGNAL {variables}: SIGTERM"}

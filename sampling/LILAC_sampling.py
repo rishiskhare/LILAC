@@ -278,7 +278,7 @@ def hierichical_clustering(contents):
     # hierichical clustering
     hierichical_clusters = {}
     for k, v in contents.items():
-        frequent_token = tuple(sorted(vocab.topk_tokens(v[0].split(), 3))) 
+        frequent_token = tuple(sorted(vocab.topk_tokens(v[0].split(), 3)))
         log_format = v[1]
         if frequent_token not in hierichical_clusters:
             hierichical_clusters[frequent_token] = {"size": 1, "cluster": {log_format: [k]}}
@@ -327,16 +327,17 @@ def hierichical_distribute(hierichical_clusters, shot, labelled_logs=[]):
 
 
 if __name__ == '__main__':
+    shots = [1, 4, 8, 16, 32, 64, 128]
     data_dir = "../full_dataset"
-    if not os.path.exists(f"{data_dir}/sampled_examples_full"):
-        os.makedirs(f"{data_dir}/sampled_examples_full")
-    average_times = [[] for _ in range(5)]
-    coverage_rates = [[] for _ in range(5)]
+    if not os.path.exists(f"{data_dir}/sampled_examples"):
+        os.makedirs(f"{data_dir}/sampled_examples")
+    average_times = [[] for _ in range(len(shots))]
+    coverage_rates = [[] for _ in range(len(shots))]
     for dataset in datasets:
         print(dataset)
         todo = False
-        for shot in [8, 16, 32, 64, 128]:
-            if not os.path.exists(f"{data_dir}/sampled_examples_full/{dataset}/{shot}shot.json"):
+        for shot in shots:
+            if not os.path.exists(f"{data_dir}/sampled_examples/{dataset}/{shot}shot.json"):
                 todo = True
                 break
         if not todo:
@@ -352,7 +353,7 @@ if __name__ == '__main__':
         print("Unique templates: ", labelled_logs['EventTemplate'].nunique())
         # print("Removed length: ", len(labelled_logs))
         # train_df = labelled_logs.sample(n=2000)
-        os.makedirs(f"{data_dir}/sampled_examples_full/{dataset}/", exist_ok=True)
+        os.makedirs(f"{data_dir}/sampled_examples/{dataset}/", exist_ok=True)
         begin_time = time.time()
         contents = {}
         for i, x in enumerate(labelled_logs['Content'].to_list()):
@@ -360,13 +361,13 @@ if __name__ == '__main__':
             if len(x.split()) > 1:
                 contents[i] = (x, fx)
         # content = {i: clean(x) if len(x.split()) > 1 for i, x in enumerate(labelled_logs['Content'].tolist())}
-        
+
         hierichical_clusters = hierichical_clustering(contents)
         end_time = time.time()
         clustering_time = end_time - begin_time
         print("Hierichical clustering time: ", clustering_time)
-        for idx, shot in enumerate([8, 16, 32, 64, 128]):
-            if os.path.exists(f"{data_dir}/sampled_examples_full/{dataset}/{shot}shot.json"):
+        for idx, shot in enumerate(shots):
+            if os.path.exists(f"{data_dir}/sampled_examples/{dataset}/{shot}shot.json"):
                 continue
             begin_time = time.time()
             sampled_ids = hierichical_distribute(hierichical_clusters, shot, labelled_logs['Content'].to_list())
@@ -388,6 +389,6 @@ if __name__ == '__main__':
                 for s in candidate_samples[:shot]:
                     f.write(json.dumps(s) + "\n")
 
-    for idx, shot in enumerate([8, 16, 32, 64, 128]):
+    for idx, shot in enumerate(shots):
         print(f"{shot}-shot average time: {np.mean(average_times[idx])}")
         print(f"{shot}-shot coverage rate: {np.mean(coverage_rates[idx])}")

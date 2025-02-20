@@ -1,16 +1,16 @@
-{"query": "10.11.10.1 \"POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1\" status: 202 len: 733 time: 0.5575180", "answer": "{variables} \"POST {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
-{"query": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 404 len: 296 time: 0.0848172", "answer": "{variables} \"POST {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
-{"query": "[instance: 942d95b2-843b-4199-9d3d-a68dfeba5780] Creating image", "answer": "[instance: {variables}] Creating image"}
-{"query": "[instance: 636b44eb-4c54-4438-90a6-68a156f33b6d] VM Resumed (Lifecycle Event)", "answer": "[instance: {variables}] VM Resumed (Lifecycle Event)"}
-{"query": "While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.", "answer": "While synchronizing instance power states, found {variables} instances in the database and {variables} instances on the hypervisor."}
-{"query": "[instance: f3253bb8-9a74-431d-8b5c-317caec23c3a] During sync_power_state the instance has a pending task (spawning). Skip.", "answer": "[instance: {variables}] During sync_power_state the instance has a pending task (spawning). Skip."}
-{"query": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking", "answer": "image {variables} at ({variables}): checking"}
-{"query": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage", "answer": "image {variables} at ({variables}): in use: on this node {variables} local, {variables} on other nodes sharing this instance storage"}
-{"query": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Active base files: {variables}"}
-{"query": "Creating event network-vif-plugged:ce3e00e6-2c8f-4cfc-94b1-919be083a332 for instance 71e8341c-c336-46a3-a49b-589a1b627742", "answer": "Creating event {variables} for instance {variables}"}
-{"query": "[instance: 3113fe9b-1a8f-4058-bd3d-20d6dea72bce] Instance destroyed successfully.", "answer": "[instance: {variables}] Instance destroyed successfully."}
-{"query": "[instance: 7953dc44-3e59-4a77-86a6-333ad03f4efa] Took 19.90 seconds to spawn the instance on the hypervisor.", "answer": "[instance: {variables}] Took {variables} seconds to spawn the instance on the hypervisor."}
-{"query": "10.11.22.87,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2314210", "answer": "{variables} \"GET {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
-{"query": "[instance: 8f7dc3db-c009-4304-a725-3de747fca161] Terminating instance", "answer": "[instance: {variables}] Terminating instance"}
-{"query": "[instance: f8f2e2b3-b51e-448c-9232-27c14f0cb580] Deleting instance files /var/lib/nova/instances/f8f2e2b3-b51e-448c-9232-27c14f0cb580_del", "answer": "[instance: {variables}] Deleting instance files {variables}"}
-{"query": "[instance: 7dbd5529-cf1b-4a39-9675-05799231ab97] Deletion of /var/lib/nova/instances/7dbd5529-cf1b-4a39-9675-05799231ab97_del complete", "answer": "[instance: {variables}] Deletion of {variables} complete"}
+{"query": "Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.", "answer": "Successfully synced instances from host '{variables}'."}
+{"query": "[instance: 7dbd5529-cf1b-4a39-9675-05799231ab97] VM Paused (Lifecycle Event)", "answer": "[instance: {variables}] VM Paused (Lifecycle Event)"}
+{"query": "Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Base or swap file too young to remove: {variables}"}
+{"query": "HTTP exception thrown: No instances found for any event", "answer": "HTTP exception thrown: No instances found for any event"}
+{"query": "Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.", "answer": "Running instance usage audit for host {variables} from {variables} to {variables}. {variables} instances."}
+{"query": "[instance: 207a34eb-338d-475c-aa0e-64cf84281395] Deletion of /var/lib/nova/instances/207a34eb-338d-475c-aa0e-64cf84281395_del complete", "answer": "[instance: {variables}] Deletion of {variables} complete"}
+{"query": "[instance: 04c65943-bc2c-4bfa-bc86-009c3e98ad0e] During sync_power_state the instance has a pending task (spawning). Skip.", "answer": "[instance: {variables}] During sync_power_state the instance has a pending task (spawning). Skip."}
+{"query": "[instance: 9f0f1d4b-cb50-41fd-ba41-8099e1c1ca8d] Claim successful", "answer": "[instance: {variables}] Claim successful"}
+{"query": "[instance: 4810ee41-5559-4fb2-b06b-848addb9fca7] memory limit: 96258.00 MB, free: 95746.00 MB", "answer": "[instance: {variables}] memory limit: {variables} MB, free: {variables} MB"}
+{"query": "[instance: 04fbe775-607f-4727-a598-3983b58a5f18] Took 1.00 seconds to destroy the instance on the hypervisor.", "answer": "[instance: {variables}] Took {variables} seconds to destroy the instance on the hypervisor."}
+{"query": "[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deleting instance files /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del", "answer": "[instance: {variables}] Deleting instance files {variables}"}
+{"query": "[instance: 969dbe7f-36a6-422b-988b-31f9e0ccd93d] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU", "answer": "[instance: {variables}] Attempting claim: memory {variables} MB, disk {variables} GB, vcpus {variables} CPU"}
+{"query": "[instance: 3cf84c7e-1f99-474e-b5b1-0686f44c3732] Total disk: 15 GB, used: 0.00 GB", "answer": "[instance: {variables}] Total disk: {variables} GB, used: {variables} GB"}
+{"query": "Total usable vcpus: 16, total allocated vcpus: 0", "answer": "Total usable vcpus: {variables}, total allocated vcpus: {variables}"}
+{"query": "Creating event network-vif-plugged:f6ae27b8-a9b7-457b-befd-0af30dbb134c for instance cacbb3fb-8fb0-4f27-b72e-955ce7a1db51", "answer": "Creating event {variables} for instance {variables}"}
+{"query": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Unknown base file: {variables}"}

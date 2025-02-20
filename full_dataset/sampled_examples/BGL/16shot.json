@@ -1,16 +1,16 @@
-{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
-{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
-{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
-{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
-{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
-{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
+{"query": "debug wait enable.................0", "answer": "debug wait enable.................{variables}"}
+{"query": "ddr: excessive soft failures, consider replacing the card", "answer": "ddr: excessive soft failures, consider replacing the card"}
+{"query": "memory manager address error.....................0", "answer": "memory manager address error.....................{variables}"}
+{"query": "EndServiceAction is restarting the NodeCards in midplane R37-M1 as part of Service Action 222", "answer": "EndServiceAction is restarting the NodeCards in midplane {variables} as part of Service Action {variables}"}
+{"query": "debug interrupt enable............0", "answer": "debug interrupt enable............{variables}"}
+{"query": "special purpose registers:", "answer": "special purpose registers:"}
 {"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
-{"query": "machine check enable..............1", "answer": "machine check enable..............{variables}"}
-{"query": "size of DDR we are caching...............1 (512M)", "answer": "size of DDR we are caching...............{variables} ({variables})"}
-{"query": "memory manager uncorrectable error...............1", "answer": "memory manager uncorrectable error...............{variables}"}
-{"query": "4 torus receiver x- input pipe error(s) (dcr 0x02ed) detected and corrected", "answer": "{variables} torus receiver {variables} input pipe error(s) (dcr {variables}) detected and corrected"}
-{"query": "machine check: i-fetch......................0", "answer": "machine check: i-fetch......................{variables}"}
-{"query": "machine check interrupt (bit=0x10): L2 DCU read error", "answer": "machine check interrupt (bit={variables}): L2 DCU read error"}
-{"query": "uncorrectable error detected in EDRAM bank 1...0", "answer": "uncorrectable error detected in EDRAM bank {variables}...{variables}"}
-{"query": "DDR machine check register: 0x00000000 0x00010000", "answer": "DDR machine check register: {variables} {variables}"}
-{"query": "ciod: Message code 2 is not 3 or 4294967295", "answer": "ciod: Message code {variables} is not {variables} or {variables}"}
+{"query": "1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected", "answer": "{variables} torus receiver {variables} input pipe error(s) (dcr {variables}) detected and corrected"}
+{"query": "parity error in bank 1.........................0", "answer": "parity error in bank {variables}.........................{variables}"}
+{"query": "EndServiceAction 224 performed upon R36-M1-NE by root", "answer": "EndServiceAction {variables} performed upon {variables} by {variables}"}
+{"query": "ciod: Error loading /home/spelce1/SPPM_VERIFY/sppm/run/sppm: program image too big, 746264160 > 534511616", "answer": "ciod: Error loading {variables}: program image too big, {variables} > {variables}"}
+{"query": "problem state (0=sup,1=usr).......0", "answer": "problem state ({variables}=sup,{variables}=usr).......{variables}"}
+{"query": "d-cache search parity error.......0", "answer": "d-cache search parity error.......{variables}"}
+{"query": "disable write lines 2:4..................0", "answer": "disable write lines {variables}..................{variables}"}
+{"query": "Controlling BG/L rows [ 0 1 2 3 ]", "answer": "Controlling BG/L rows [ {variables} ]"}
+{"query": "ciod: pollControlDescriptors: Detected the debugger died.", "answer": "ciod: pollControlDescriptors: Detected the debugger died."}

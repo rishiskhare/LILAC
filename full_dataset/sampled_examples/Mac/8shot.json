@@ -1,8 +1,8 @@
-{"query": "Watch set is now: {(", "answer": "Watch set is now: {("}
-{"query": "hfs: mounted Recovery HD on device disk0s3", "answer": "hfs: mounted Recovery HD on device {variables}"}
-{"query": "Invalid Connection ID 0", "answer": "Invalid Connection ID {variables}"}
-{"query": "Got an XPC error: Connection invalid", "answer": "Got an XPC error: Connection invalid"}
-{"query": "CCFile::captureLogRun() Exiting CCFile::captureLogRun", "answer": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"}
-{"query": "hibernate_teardown_pmap_structs done: last_valid_compact_indx 279968", "answer": "hibernate_teardown_pmap_structs done: last_valid_compact_indx {variables}"}
-{"query": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x1800", "answer": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- {variables}"}
-{"query": "2017-07-02 15:46:40.516 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"https://tools.google.com/service/update2?cup2hreq=29f0533938db88b28a5beddb8458ae94143d3661c2862efbb24705b30d4bdd19&cup2key=7:128339796\"", "answer": "{variables} {variables} GoogleSoftwareUpdateAgent[{variables}] [lvl={variables}] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"{variables}\""}
+{"query": "[EAPOLControl.c:180] EAPOLControlAuthInfoIsValid(): Ignoring SaveCredentialsOnSuccessfulAuthentication since no credentials were specified", "answer": "[EAPOLControl.c:{variables}] EAPOLControlAuthInfoIsValid(): Ignoring SaveCredentialsOnSuccessfulAuthentication since no credentials were specified"}
+{"query": "CCXPCService::setStreamEventHandler Registered for notification callback.", "answer": "CCXPCService::setStreamEventHandler Registered for notification callback."}
+{"query": "bitmap_size 0x7f0fc, previewSize 0x56ab48, writing 434026 pages @ 0x5fdc64", "answer": "bitmap_size {variables}, previewSize {variables}, writing {variables} pages @ {variables}"}
+{"query": "network changed: v4(en0!:10.105.163.202) DNS+ Proxy+ SMB", "answer": "network changed: {variables} DNS+ Proxy+ SMB"}
+{"query": "23:32:34.003 : Discoverable mode changed to Off", "answer": "{variables} : Discoverable mode changed to Off"}
+{"query": "<INFO> RQD: Persist userinfo data with count 0", "answer": "<INFO> RQD: Persist userinfo data with count {variables}"}
+{"query": "com.apple.ical.sync.x-coredata://DB05755C-483D-44B7-B93B-ED06E57FF420/ExchangePrincipal/p13: scheduler returned false; however, this job is 1 seconds overdue. Running anyway.", "answer": "{variables}: scheduler returned {variables}; however, this job is {variables} seconds overdue. Running anyway."}
+{"query": "02:07:59.925 : BTLE scanner Powered On", "answer": "{variables} : BTLE scanner Powered {variables}"}

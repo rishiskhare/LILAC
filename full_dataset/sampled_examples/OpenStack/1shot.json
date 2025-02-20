@@ -1,0 +1,1 @@
+{"query": "[instance: b62b548c-f9d6-4943-97fc-00887728434b] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU", "answer": "[instance: {variables}] Attempting claim: memory {variables} MB, disk {variables} GB, vcpus {variables} CPU"}

@@ -1,32 +1,32 @@
-{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
-{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
-{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
-{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
-{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
-{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
-{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
-{"query": "machine check enable..............1", "answer": "machine check enable..............{variables}"}
-{"query": "size of DDR we are caching...............1 (512M)", "answer": "size of DDR we are caching...............{variables} ({variables})"}
-{"query": "memory manager uncorrectable error...............1", "answer": "memory manager uncorrectable error...............{variables}"}
-{"query": "4 torus receiver x- input pipe error(s) (dcr 0x02ed) detected and corrected", "answer": "{variables} torus receiver {variables} input pipe error(s) (dcr {variables}) detected and corrected"}
-{"query": "machine check: i-fetch......................0", "answer": "machine check: i-fetch......................{variables}"}
-{"query": "machine check interrupt (bit=0x10): L2 DCU read error", "answer": "machine check interrupt (bit={variables}): L2 DCU read error"}
-{"query": "uncorrectable error detected in EDRAM bank 1...0", "answer": "uncorrectable error detected in EDRAM bank {variables}...{variables}"}
-{"query": "DDR machine check register: 0x00000000 0x00010000", "answer": "DDR machine check register: {variables} {variables}"}
-{"query": "ciod: Message code 2 is not 3 or 4294967295", "answer": "ciod: Message code {variables} is not {variables} or {variables}"}
-{"query": "ciodb has been restarted.", "answer": "ciodb has been restarted."}
-{"query": "BglIdoChip table has 2 IDOs with the same IP address (10.0.1.12)", "answer": "BglIdoChip table has {variables} IDOs with the same IP address {variables}"}
-{"query": "L3 ecc control register: 00000000", "answer": "L3 ecc control register: {variables}"}
-{"query": "ddr: Unable to steer rank=0, symbol=12 - rank is already steering symbol 14. Due to multiple symbols being over the correctable", "answer": "ddr: Unable to steer rank={variables}, symbol={variables} - rank is already steering symbol {variables}. Due to multiple symbols being over the correctable"}
-{"query": "L3 global control register: 0x001249f0", "answer": "L3 global control register: {variables}"}
+{"query": "ciod: Unexpected eof at line 8193 of node map file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map", "answer": "ciod: Unexpected eof at line {variables} of node map file {variables}"}
 {"query": "instruction cache parity error corrected", "answer": "instruction cache parity error corrected"}
-{"query": "external input interrupt enable...1", "answer": "external input interrupt enable...{variables}"}
-{"query": "d-cache search parity error.......0", "answer": "d-cache search parity error.......{variables}"}
-{"query": "EndServiceAction 224 performed upon R36-M1-NE by root", "answer": "EndServiceAction {variables} performed upon {variables} by {variables}"}
-{"query": "write buffer commit threshold............2", "answer": "write buffer commit threshold............{variables}"}
-{"query": "ciod: Error loading /home/yates/MPI_testing/Presta/presta-1.3.2b/./glob: invalid or missing program image, No such file or directory", "answer": "ciod: Error loading {variables}: invalid or missing program image, No such file or directory"}
-{"query": "CE sym 0, at 0x0b859080, mask 0x80", "answer": "CE sym {variables}, at {variables}, mask {variables}"}
+{"query": "ciod: Error loading /home/spelce1/SPPM_VERIFY/sppm/run/sppm: program image too big, 746264160 > 534511616", "answer": "ciod: Error loading {variables}: program image too big, {variables} > {variables}"}
+{"query": "lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000", "answer": "lr:{variables} cr:{variables} xer:{variables} ctr:{variables}"}
+{"query": "ciodb has been restarted.", "answer": "ciodb has been restarted."}
+{"query": "floating pt ex mode 1 enable......0", "answer": "floating pt ex mode {variables} enable......{variables}"}
+{"query": "machine state register: 0x00002000", "answer": "machine state register: {variables}"}
+{"query": "debug wait enable.................0", "answer": "debug wait enable.................{variables}"}
 {"query": "error threshold, consider replacing the card", "answer": "error threshold, consider replacing the card"}
+{"query": "external input interrupt (unit=0x01 bit=0x09): number of corrected SRAM errors has exceeded threshold", "answer": "external input interrupt (unit={variables} bit={variables}): number of corrected SRAM errors has exceeded threshold"}
+{"query": "memory manager strobe gate.......................0", "answer": "memory manager strobe gate.......................{variables}"}
+{"query": "write buffer commit threshold............2", "answer": "write buffer commit threshold............{variables}"}
+{"query": "program interrupt: privileged instruction...0", "answer": "program interrupt: privileged instruction...{variables}"}
+{"query": "turn on hidden refreshes.................1", "answer": "turn on hidden refreshes.................{variables}"}
+{"query": "close EDRAM pages as soon as possible....0", "answer": "close EDRAM pages as soon as possible....{variables}"}
+{"query": "data storage interrupt", "answer": "data storage interrupt"}
+{"query": "machine check interrupt", "answer": "machine check interrupt"}
+{"query": "data TLB error interrupt", "answer": "data TLB error interrupt"}
+{"query": "critical input interrupt enable...0", "answer": "critical input interrupt enable...{variables}"}
+{"query": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes", "answer": "ciod: Error creating node map from file {variables}: No child processes"}
+{"query": "rts panic! - stopping execution", "answer": "rts panic! - stopping execution"}
+{"query": "instruction plb error.............0", "answer": "instruction plb error.............{variables}"}
+{"query": "number of correctable errors detected in L3 directories...0", "answer": "number of correctable errors detected in L3 directories...{variables}"}
+{"query": "memory manager address error.....................0", "answer": "memory manager address error.....................{variables}"}
+{"query": "force load/store alignment...............0", "answer": "force load/store alignment...............{variables}"}
+{"query": "special purpose registers:", "answer": "special purpose registers:"}
+{"query": "instruction address: 0x00004ed8", "answer": "instruction address: {variables}"}
+{"query": "floating point operation....................0", "answer": "floating point operation....................{variables}"}
+{"query": "memory manager miscompare........................0", "answer": "memory manager miscompare........................{variables}"}
+{"query": "debug interrupt enable............0", "answer": "debug interrupt enable............{variables}"}
 {"query": "command manager unit summary.....................0", "answer": "command manager unit summary.....................{variables}"}
-{"query": "instruction address space.........0", "answer": "instruction address space.........{variables}"}
-{"query": "3 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected", "answer": "{variables} tree receiver {variables} in re-synch state event(s) (dcr {variables}) detected"}
+{"query": "suppressing further interrupts of same type", "answer": "suppressing further interrupts of same type"}

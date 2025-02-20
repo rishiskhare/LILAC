@@ -1,4 +1,4 @@
-{"query": "Watch set is now: {(", "answer": "Watch set is now: {("}
-{"query": "hfs: mounted Recovery HD on device disk0s3", "answer": "hfs: mounted Recovery HD on device {variables}"}
-{"query": "Invalid Connection ID 0", "answer": "Invalid Connection ID {variables}"}
-{"query": "Got an XPC error: Connection invalid", "answer": "Got an XPC error: Connection invalid"}
+{"query": "[17:19:15.140] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92", "answer": "[{variables}] FigAgglomeratorSetObjectForKey signalled err={variables} ({variables}) ({variables} key) at {variables} line {variables}"}
+{"query": "newHeight=5421.000000,oldHeight=5421.000000", "answer": "newHeight={variables},oldHeight={variables}"}
+{"query": "-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.", "answer": "-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record."}
+{"query": "[17:44:02.393] vtDecompressionDuctCreate signalled err=-12913 (err) (Could not select and open decoder instance) at /Library/Caches/com.apple.xbs/Sources/CoreMedia_frameworks/CoreMedia-1731.15.207/Sources/VideoToolbox/VTDecompressionSession.c line 1296", "answer": "[{variables}] vtDecompressionDuctCreate signalled err={variables} (err) (Could not select and open decoder instance) at {variables} line {variables}"}

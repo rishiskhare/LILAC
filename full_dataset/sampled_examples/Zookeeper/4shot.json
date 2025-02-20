@@ -1,4 +1,4 @@
-{"query": "Reading configuration from: /etc/zookeeper/conf/zoo.cfg", "answer": "Reading configuration from: {variables}"}
-{"query": "Defaulting to majority quorums", "answer": "Defaulting to majority quorums"}
-{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
-{"query": "autopurge.purgeInterval set to 0", "answer": "autopurge.purgeInterval set to {variables}"}
+{"query": "Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar", "answer": "Server environment:java.class.path={variables}"}
+{"query": "Cannot open channel to 3 at election address /10.10.34.13:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}
+{"query": "New election. My id = 1, proposed zxid=0x0", "answer": "New election. My id = {variables}, proposed {variables}"}
+{"query": "Server environment:java.vendor=Oracle Corporation", "answer": "Server environment:java.vendor={variables}"}

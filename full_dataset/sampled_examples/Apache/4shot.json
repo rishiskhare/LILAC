@@ -1,4 +1,4 @@
-{"query": "LDAP: Built with OpenLDAP LDAP SDK", "answer": "LDAP: Built with OpenLDAP LDAP SDK"}
-{"query": "LDAP: SSL support unavailable", "answer": "LDAP: SSL support unavailable"}
-{"query": "suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)", "answer": "suEXEC mechanism enabled (wrapper: {variables})"}
 {"query": "Digest: generating secret for digest authentication ...", "answer": "Digest: generating secret for digest authentication ..."}
+{"query": "[client 210.245.151.81] Attempt to serve directory: /var/www/html/", "answer": "[client {variables}] Attempt to serve directory: {variables}"}
+{"query": "Graceful restart requested, doing restart", "answer": "Graceful restart requested, doing restart"}
+{"query": "LDAP: Built with OpenLDAP LDAP SDK", "answer": "LDAP: Built with OpenLDAP LDAP SDK"}

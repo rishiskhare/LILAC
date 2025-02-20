@@ -1,16 +1,16 @@
-{"query": "Watch set is now: {(", "answer": "Watch set is now: {("}
-{"query": "hfs: mounted Recovery HD on device disk0s3", "answer": "hfs: mounted Recovery HD on device {variables}"}
-{"query": "Invalid Connection ID 0", "answer": "Invalid Connection ID {variables}"}
-{"query": "Got an XPC error: Connection invalid", "answer": "Got an XPC error: Connection invalid"}
-{"query": "CCFile::captureLogRun() Exiting CCFile::captureLogRun", "answer": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"}
-{"query": "hibernate_teardown_pmap_structs done: last_valid_compact_indx 279968", "answer": "hibernate_teardown_pmap_structs done: last_valid_compact_indx {variables}"}
-{"query": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x1800", "answer": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- {variables}"}
-{"query": "2017-07-02 15:46:40.516 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"https://tools.google.com/service/update2?cup2hreq=29f0533938db88b28a5beddb8458ae94143d3661c2862efbb24705b30d4bdd19&cup2key=7:128339796\"", "answer": "{variables} {variables} GoogleSoftwareUpdateAgent[{variables}] [lvl={variables}] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"{variables}\""}
-{"query": "2017-07-02 10:40:07.792 ksfetch[32013/0x7fff79824000] [lvl=2] main() Setting up download file handles...", "answer": "{variables} {variables} ksfetch[{variables}] [lvl={variables}] main() Setting up download file handles..."}
-{"query": "22:30:14.416 : BTLE scanning started", "answer": "{variables} : BTLE scanning started"}
-{"query": "Central manager is not powered on", "answer": "Central manager is not powered on"}
-{"query": "[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller principalPropertiesAtURL:https://xpcben%40gmail.com@www.googleapis.com/carddav/v1/principals/xpcben%40gmail.com/] Error Domain=CoreDAVErrorDomain Code=1 \"(null)\"", "answer": "[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller {variables} Error Domain={variables} Code={variables} \"({variables})\""}
-{"query": "Couldn't find a requirement string for masquerading client com.apple.Maps", "answer": "Couldn't find a requirement string for masquerading client {variables}"}
-{"query": "[17:27:52.418] vtDecompressionDuctCreate signalled err=-12913 (err) (Could not select and open decoder instance) at /Library/Caches/com.apple.xbs/Sources/CoreMedia_frameworks/CoreMedia-1731.15.207/Sources/VideoToolbox/VTDecompressionSession.c line 1296", "answer": "[{variables}] vtDecompressionDuctCreate signalled err={variables} (err) (Could not select and open decoder instance) at {variables} line {variables}"}
-{"query": "full wake request (reason 2) 19880 ms", "answer": "full wake request (reason {variables}) {variables} ms"}
-{"query": "Unable to start NetBIOS name service:", "answer": "Unable to start NetBIOS name service:"}
+{"query": "in6_unlink_ifa: IPv6 address 0x77c9114551ab24fb has no prefix", "answer": "in6_unlink_ifa: IPv6 address {variables} has no prefix"}
+{"query": "en0: BSSID changed to 5c:50:15:4c:18:13", "answer": "{variables}: BSSID changed to {variables}"}
+{"query": "Sandbox: storeaccountd(345) deny(1) file-write-create /Users/xpc/Library/Caches/com.apple.Safari/ProductionBag", "answer": "Sandbox: storeaccountd({variables}) deny({variables}) file-write-create {variables}"}
+{"query": "[21:15:50.531] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92", "answer": "[{variables}] FigAgglomeratorSetObjectForKey signalled err={variables} ({variables}) ({variables} key) at {variables} line {variables}"}
+{"query": "Wake reason: EC.LidClose (Maintenance)", "answer": "Wake reason: {variables}"}
+{"query": "button report: 0x8001e34", "answer": "button report: {variables}"}
+{"query": "hibernate_teardown_pmap_structs done: last_valid_compact_indx 278428", "answer": "hibernate_teardown_pmap_structs done: last_valid_compact_indx {variables}"}
+{"query": "ERROR | -[LWBuiltInScreenLockAuthLion closeAuthAndReset:] | Attempted to remove an observer when not observing", "answer": "ERROR | -[LWBuiltInScreenLockAuthLion {variables} | Attempted to remove an observer when not observing"}
+{"query": "ARPT: 646019.664768: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10", "answer": "ARPT: {variables}: {variables}: setup_keepalive: interval {variables}, retry_interval {variables}, retry_count {variables}"}
+{"query": "[Accounts] Current connection, <NSXPCConnection: 0x7fda72507990> connection from pid 4133, doesn't have account access.", "answer": "[Accounts] Current connection, <NSXPCConnection: {variables} connection from pid {variables}, doesn't have account access."}
+{"query": "Wake reason: EC.LidOpen (User)", "answer": "Wake reason: {variables}"}
+{"query": "IOPMrootDomain: idle cancel, state 1", "answer": "IOPMrootDomain: idle cancel, state {variables}"}
+{"query": "com.apple.Addres(31940) deny network-outbound /private/var/run/mDNSResponder", "answer": "{variables}({variables}) deny network-outbound {variables}"}
+{"query": "USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3", "answer": "USBMSC Identifier (non-unique): {variables} {variables} {variables} {variables}, {variables}"}
+{"query": "tcp_connection_tls_session_error_callback_imp 2115 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22", "answer": "tcp_connection_tls_session_error_callback_imp {variables} {variables} error {variables}"}
+{"query": "CCProfileMonitor::profileCallback Entered token:1", "answer": "CCProfileMonitor::profileCallback Entered token:{variables}"}

@@ -373,3 +373,318 @@ Hierichical sampling time: 0.6903810501098633
 Zookeeper128-shot sampling covers sampled templates: 41
 128-shot sampling cover rate: 0.9318181818181818
 Hierichical sampling time: 0.6920506954193115
+Apache8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.2675149440765381
+Apache1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.2876884937286377
+Apache4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.28714990615844727
+Apache8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.2872192859649658
+Apache16-shot sampling covers sampled templates: 15
+16-shot sampling cover rate: 0.9375
+Hierichical sampling time: 0.2875359058380127
+Apache32-shot sampling covers sampled templates: 24
+32-shot sampling cover rate: 0.96
+Hierichical sampling time: 0.28814029693603516
+Apache64-shot sampling covers sampled templates: 24
+64-shot sampling cover rate: 0.96
+Hierichical sampling time: 0.2893247604370117
+Apache1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.2729969024658203
+Apache4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.2726249694824219
+Apache8-shot sampling covers sampled templates: 7
+8-shot sampling cover rate: 0.875
+Hierichical sampling time: 0.27268218994140625
+Apache16-shot sampling covers sampled templates: 15
+16-shot sampling cover rate: 0.9375
+Hierichical sampling time: 0.2730391025543213
+Apache32-shot sampling covers sampled templates: 24
+32-shot sampling cover rate: 0.96
+Hierichical sampling time: 0.2736470699310303
+Apache64-shot sampling covers sampled templates: 24
+64-shot sampling cover rate: 0.96
+Hierichical sampling time: 0.27483391761779785
+Apache128-shot sampling covers sampled templates: 24
+128-shot sampling cover rate: 0.96
+Hierichical sampling time: 0.2772982120513916
+BGL1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.12653660774231
+BGL4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.1226167678833
+BGL8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.122653007507324
+BGL16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.122820615768433
+BGL32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.123631238937378
+BGL64-shot sampling covers sampled templates: 64
+64-shot sampling cover rate: 1.0
+Hierichical sampling time: 9.124224424362183
+BGL128-shot sampling covers sampled templates: 125
+128-shot sampling cover rate: 0.9765625
+Hierichical sampling time: 9.125900030136108
+Hadoop1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5806088447570801
+Hadoop4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5792274475097656
+Hadoop8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5792636871337891
+Hadoop16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.579470157623291
+Hadoop32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5799434185028076
+Hadoop64-shot sampling covers sampled templates: 63
+64-shot sampling cover rate: 0.984375
+Hierichical sampling time: 0.5807998180389404
+Hadoop128-shot sampling covers sampled templates: 128
+128-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5824925899505615
+HDFS1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.53157067298889
+HDFS4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.52752089500427
+HDFS8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.52793335914612
+HDFS16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.52786946296692
+HDFS32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.52856469154358
+HDFS64-shot sampling covers sampled templates: 34
+64-shot sampling cover rate: 0.918918918918919
+Hierichical sampling time: 38.529585123062134
+HDFS128-shot sampling covers sampled templates: 37
+128-shot sampling cover rate: 1.0
+Hierichical sampling time: 38.53095197677612
+HealthApp1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5353262424468994
+HealthApp4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5327482223510742
+HealthApp8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5327725410461426
+HealthApp16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5329632759094238
+HealthApp32-shot sampling covers sampled templates: 31
+32-shot sampling cover rate: 0.96875
+Hierichical sampling time: 0.5333843231201172
+HealthApp64-shot sampling covers sampled templates: 64
+64-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5342810153961182
+HealthApp128-shot sampling covers sampled templates: 92
+128-shot sampling cover rate: 0.71875
+Hierichical sampling time: 0.5361142158508301
+HPC1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.911984920501709
+HPC4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.911113977432251
+HPC8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.911160945892334
+HPC16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.911383867263794
+HPC32-shot sampling covers sampled templates: 30
+32-shot sampling cover rate: 0.9375
+Hierichical sampling time: 0.9118194580078125
+HPC64-shot sampling covers sampled templates: 36
+64-shot sampling cover rate: 0.8372093023255814
+Hierichical sampling time: 0.9126319885253906
+HPC128-shot sampling covers sampled templates: 37
+128-shot sampling cover rate: 0.8604651162790697
+Hierichical sampling time: 0.9142484664916992
+Linux1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.07876825332641602
+Linux4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.07872772216796875
+Linux8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.07880640029907227
+Linux16-shot sampling covers sampled templates: 13
+16-shot sampling cover rate: 0.8125
+Hierichical sampling time: 0.07903695106506348
+Linux32-shot sampling covers sampled templates: 29
+32-shot sampling cover rate: 0.90625
+Hierichical sampling time: 0.07946515083312988
+Linux64-shot sampling covers sampled templates: 57
+64-shot sampling cover rate: 0.890625
+Hierichical sampling time: 0.08037710189819336
+Linux128-shot sampling covers sampled templates: 112
+128-shot sampling cover rate: 0.875
+Hierichical sampling time: 0.0819692611694336
+Mac1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.397444486618042
+Mac4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.39734816551208496
+Mac8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.3973822593688965
+Mac16-shot sampling covers sampled templates: 15
+16-shot sampling cover rate: 0.9375
+Hierichical sampling time: 0.3975653648376465
+Mac32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.3980393409729004
+Mac64-shot sampling covers sampled templates: 64
+64-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.39885759353637695
+Mac128-shot sampling covers sampled templates: 125
+128-shot sampling cover rate: 0.9765625
+Hierichical sampling time: 0.40054774284362793
+OpenSSH1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 2.2772998809814453
+OpenSSH4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 2.2767276763916016
+OpenSSH8-shot sampling covers sampled templates: 7
+8-shot sampling cover rate: 0.875
+Hierichical sampling time: 2.2767701148986816
+OpenSSH16-shot sampling covers sampled templates: 15
+16-shot sampling cover rate: 0.9375
+Hierichical sampling time: 2.2769577503204346
+OpenSSH32-shot sampling covers sampled templates: 26
+32-shot sampling cover rate: 0.8387096774193549
+Hierichical sampling time: 2.277447462081909
+OpenSSH64-shot sampling covers sampled templates: 30
+64-shot sampling cover rate: 0.967741935483871
+Hierichical sampling time: 2.2782492637634277
+OpenSSH128-shot sampling covers sampled templates: 30
+128-shot sampling cover rate: 0.967741935483871
+Hierichical sampling time: 2.279773712158203
+OpenStack1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.8291704654693604
+OpenStack4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.8286921977996826
+OpenStack8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.828700065612793
+OpenStack16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.8288912773132324
+OpenStack32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.8293437957763672
+OpenStack64-shot sampling covers sampled templates: 37
+64-shot sampling cover rate: 0.8409090909090909
+Hierichical sampling time: 0.8301782608032227
+OpenStack128-shot sampling covers sampled templates: 40
+128-shot sampling cover rate: 0.9090909090909091
+Hierichical sampling time: 0.8317813873291016
+Proxifier1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.0859830379486084
+Proxifier4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.08591222763061523
+Proxifier8-shot sampling covers sampled templates: 7
+8-shot sampling cover rate: 0.875
+Hierichical sampling time: 0.08597326278686523
+Proxifier16-shot sampling covers sampled templates: 7
+16-shot sampling cover rate: 0.7777777777777778
+Hierichical sampling time: 0.0861659049987793
+Proxifier32-shot sampling covers sampled templates: 9
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.08658289909362793
+Proxifier64-shot sampling covers sampled templates: 9
+64-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.08734273910522461
+Proxifier128-shot sampling covers sampled templates: 9
+128-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.08892321586608887
+Spark1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 50.016284227371216
+Spark4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 49.98551559448242
+Spark8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 49.985660791397095
+Spark16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 49.98584508895874
+Spark32-shot sampling covers sampled templates: 31
+32-shot sampling cover rate: 0.96875
+Hierichical sampling time: 49.9914345741272
+Spark64-shot sampling covers sampled templates: 60
+64-shot sampling cover rate: 0.9375
+Hierichical sampling time: 49.98731875419617
+Spark128-shot sampling covers sampled templates: 119
+128-shot sampling cover rate: 0.9296875
+Hierichical sampling time: 49.98906326293945
+Thunderbird1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 60.026894330978394
+Thunderbird4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 60.01531982421875
+Thunderbird8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 60.01555395126343
+Thunderbird16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 60.017563819885254
+Thunderbird32-shot sampling covers sampled templates: 31
+32-shot sampling cover rate: 0.96875
+Hierichical sampling time: 60.01631045341492
+Thunderbird64-shot sampling covers sampled templates: 60
+64-shot sampling cover rate: 0.9375
+Hierichical sampling time: 60.01728630065918
+Thunderbird128-shot sampling covers sampled templates: 124
+128-shot sampling cover rate: 0.96875
+Hierichical sampling time: 60.0190167427063
+Zookeeper1-shot sampling covers sampled templates: 1
+1-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.5019865036010742
+Zookeeper4-shot sampling covers sampled templates: 4
+4-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.49877357482910156
+Zookeeper8-shot sampling covers sampled templates: 8
+8-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.49878907203674316
+Zookeeper16-shot sampling covers sampled templates: 16
+16-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.4990231990814209
+Zookeeper32-shot sampling covers sampled templates: 32
+32-shot sampling cover rate: 1.0
+Hierichical sampling time: 0.4994633197784424
+Zookeeper64-shot sampling covers sampled templates: 42
+64-shot sampling cover rate: 0.9545454545454546
+Hierichical sampling time: 0.5002346038818359
+Zookeeper128-shot sampling covers sampled templates: 42
+128-shot sampling cover rate: 0.9545454545454546
+Hierichical sampling time: 0.5017471313476562

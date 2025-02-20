@@ -1,4 +1,4 @@
-{"query": "1 failed to configure resourcemgmt subsystem err = 10", "answer": "{variables} failed to configure resourcemgmt subsystem err = {variables}"}
-{"query": "wait (command 3336)", "answer": "wait (command {variables})"}
-{"query": "boot (command 3512)", "answer": "boot (command {variables})"}
-{"query": "halt (command 2722)", "answer": "halt (command {variables})"}
+{"query": "Link error on broadcast tree Interconnect-1T00:00:2:0", "answer": "Link error on broadcast tree {variables}"}
+{"query": "ServerFileSystem: An ServerFileSystem domain panic has occurred on storage1541", "answer": "ServerFileSystem: An ServerFileSystem domain panic has occurred on {variables}"}
+{"query": "haltcluster (command 2809)", "answer": "haltcluster (command {variables})"}
+{"query": "member_delete (command 4184)", "answer": "member_delete (command {variables})"}

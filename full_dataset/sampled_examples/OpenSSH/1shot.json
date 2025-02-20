@@ -1,0 +1,1 @@
+{"query": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=124.126.145.182 user=root", "answer": "PAM {variables} more authentication failures; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}

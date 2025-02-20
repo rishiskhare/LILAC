@@ -1,16 +1,16 @@
-{"query": "Deleting staging directory hdfs://msra-sa-41:9000 /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020", "answer": "Deleting staging directory {variables} {variables}"}
-{"query": "Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030", "answer": "Connecting to ResourceManager at {variables}"}
-{"query": "Read 60515389 bytes from map-output for attempt_1445062781478_0017_m_000000_0", "answer": "Read {variables} bytes from map-output for {variables}"}
-{"query": "Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@12a0fe1b", "answer": "Using ResourceCalculatorProcessTree : {variables}"}
-{"query": "Service JobHistoryEventHandler failed in state STOPPED; cause: org.apache.avro.AvroTypeException: Attempt to process a enum when a union was expected.", "answer": "Service {variables} failed in state {variables}; cause: {variables}: Attempt to process a enum when a union was expected."}
-{"query": "Extract jar:file:/D:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce to C:\\Users\\msrabi\\AppData\\Local\\Temp\\2\\Jetty_0_0_0_0_4233_mapreduce____.fhx83j\\webapp", "answer": "Extract jar:{variables} to {variables}"}
-{"query": "Starting flush of map output", "answer": "Starting flush of map output"}
-{"query": "maxTaskFailuresPerNode is 3", "answer": "maxTaskFailuresPerNode is {variables}"}
-{"query": "Done acknowledgement from attempt_1445062781478_0020_r_000000_0", "answer": "Done acknowledgement from {variables}"}
-{"query": "JVM with ID: jvm_1445062781478_0020_m_000010 given task: attempt_1445062781478_0020_m_000008_0", "answer": "JVM with ID: {variables} given task: {variables}"}
-{"query": "In stop, writing event MAP_ATTEMPT_FAILED", "answer": "In stop, writing event {variables}"}
-{"query": "Stopping IPC Server Responder", "answer": "Stopping IPC Server Responder"}
-{"query": "Ignoring obsolete output of KILLED map-task: 'attempt_1445087491445_0005_m_000011_1'", "answer": "Ignoring obsolete output of KILLED map-task: '{variables}'"}
-{"query": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 1197 seconds. Will retry shortly ...", "answer": "Failed to renew lease for {variables} for {variables} seconds. Will retry shortly ..."}
-{"query": "Commit-pending state update from attempt_1445062781478_0011_r_000000_0", "answer": "Commit-pending state update from {variables}"}
-{"query": "Processing split: hdfs://msra-sa-41:9000/pageinput2.txt:671088640+134217728", "answer": "Processing split: {variables}+{variables}"}
+{"query": "Diagnostics report from attempt_1445062781478_0017_m_000007_1: Container killed by the ApplicationMaster.", "answer": "Diagnostics report from {variables}: Container killed by the ApplicationMaster."}
+{"query": "fetcher#4 about to shuffle output of map attempt_1445062781478_0016_m_000004_0 decomp: 60513765 len: 60513769 to DISK", "answer": "fetcher#{variables} about to shuffle output of map {variables}: {variables} len: {variables} to DISK"}
+{"query": "Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:28345", "answer": "Opening proxy : {variables}"}
+{"query": "ReduceTask metrics system stopped.", "answer": "{variables} metrics system stopped."}
+{"query": "Done acknowledgement from attempt_1445087491445_0002_m_000004_0", "answer": "Done acknowledgement from {variables}"}
+{"query": "TaskAttempt killed because it ran on unusable node MININT-FNANLI5.fareast.corp.microsoft.com:55629. AttemptId:attempt_1445087491445_0002_m_000006_1", "answer": "TaskAttempt killed because it ran on unusable node {variables}. AttemptId:{variables}"}
+{"query": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)", "answer": "Retrying connect to server: {variables}. Already tried {variables} time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries={variables}, sleepTime={variables} MILLISECONDS)"}
+{"query": "task_1445144423722_0020_m_000004 Task Transitioned from NEW to SCHEDULED", "answer": "{variables} Task Transitioned from {variables} to {variables}"}
+{"query": "JVM with ID: jvm_1445087491445_0002_m_000003 given task: attempt_1445087491445_0002_m_000006_1000", "answer": "JVM with ID: {variables} given task: {variables}"}
+{"query": "ReduceTask metrics system shutdown complete.", "answer": "{variables} metrics system shutdown complete."}
+{"query": "I/O error constructing remote block reader.", "answer": "I/O error constructing remote block reader."}
+{"query": "ProcfsBasedProcessTree currently is supported only on Linux.", "answer": "ProcfsBasedProcessTree currently is supported only on Linux."}
+{"query": "Size of containertokens_dob is 1", "answer": "Size of containertokens_dob is {variables}"}
+{"query": "Calling handler for JobFinishedEvent", "answer": "Calling handler for JobFinishedEvent"}
+{"query": "Web app /mapreduce started at 49588", "answer": "Web app {variables} started at {variables}"}
+{"query": "Retrying connect to server: minint-fnanli5.fareast.corp.microsoft.com/10.86.169.121:62270. Already tried 7 time(s); maxRetries=45", "answer": "Retrying connect to server: {variables}. Already tried {variables} time(s); maxRetries={variables}"}

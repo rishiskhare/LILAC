@@ -1,0 +1,1 @@
+{"query": "CFPasteboardBeginGenerationReturn CFPasteboardBeginGeneration(CFPasteboardRef) : Lock timeout", "answer": "CFPasteboardBeginGenerationReturn CFPasteboardBeginGeneration({variables}) : Lock timeout"}

@@ -1,8 +1,8 @@
-{"query": "Reading configuration from: /etc/zookeeper/conf/zoo.cfg", "answer": "Reading configuration from: {variables}"}
-{"query": "Defaulting to majority quorums", "answer": "Defaulting to majority quorums"}
-{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
-{"query": "autopurge.purgeInterval set to 0", "answer": "autopurge.purgeInterval set to {variables}"}
-{"query": "Purge task is not scheduled.", "answer": "Purge task is not scheduled."}
-{"query": "Starting quorum peer", "answer": "Starting quorum peer"}
+{"query": "Server environment:user.home=/var/lib/zookeeper", "answer": "Server environment:user.home={variables}"}
+{"query": "Server environment:java.vendor=Oracle Corporation", "answer": "Server environment:java.vendor={variables}"}
+{"query": "Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre", "answer": "Server environment:java.home={variables}"}
+{"query": "Connection broken for id 188978561024, my id = 1, error =", "answer": "Connection broken for id {variables}, my id = {variables}, error ={variables}"}
+{"query": "Interrupted while waiting for message on queue", "answer": "Interrupted while waiting for message on queue"}
+{"query": "minSessionTimeout set to -1", "answer": "minSessionTimeout set to {variables}"}
 {"query": "binding to port 0.0.0.0/0.0.0.0:2181", "answer": "binding to port {variables}"}
-{"query": "tickTime set to 2000", "answer": "tickTime set to {variables}"}
+{"query": "Server environment:java.io.tmpdir=/tmp", "answer": "Server environment:java.io.tmpdir={variables}"}

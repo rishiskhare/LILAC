@@ -1,16 +1,16 @@
-{"query": "1 failed to configure resourcemgmt subsystem err = 10", "answer": "{variables} failed to configure resourcemgmt subsystem err = {variables}"}
-{"query": "wait (command 3336)", "answer": "wait (command {variables})"}
-{"query": "boot (command 3512)", "answer": "boot (command {variables})"}
-{"query": "halt (command 2722)", "answer": "halt (command {variables})"}
-{"query": "clusterAddMember (command 3867)", "answer": "clusterAddMember (command {variables})"}
-{"query": "risBoot (command 1912)", "answer": "risBoot (command {variables})"}
-{"query": "bootGenvmunix (command 1906)", "answer": "bootGenvmunix (command {variables})"}
-{"query": "member_delete (command 4184)", "answer": "member_delete (command {variables})"}
-{"query": "haltcluster (command 2599)", "answer": "haltcluster (command {variables})"}
+{"query": "Failed subcommands 3825\\ 3845\\ 3846", "answer": "Failed subcommands {variables}"}
+{"query": "Link error on broadcast tree Interconnect-1T00:00:2:0", "answer": "Link error on broadcast tree {variables}"}
+{"query": "Command has been aborted", "answer": "Command has been aborted"}
+{"query": "power/control ok", "answer": "power/control ok"}
+{"query": "Link in reset", "answer": "Link in reset"}
+{"query": "inconsistent nodesets node-191 0x1ffffbc06 <ok> node-162 0x1fffffffe <ok> node-160 0x1fffffffe <ok> node-161 0x1fffffffe <ok>", "answer": "inconsistent nodesets {variables} {variables} <ok> {variables} {variables} <ok>"}
+{"query": "no recent update", "answer": "no recent update"}
 {"query": "Command has completed successfully", "answer": "Command has completed successfully"}
-{"query": "Targeting domains:node-D0 and nodes:node-31", "answer": "Targeting domains:{variables} and nodes:{variables}"}
-{"query": "Targeting domains:node-D0 and nodes:node-[0-2]", "answer": "Targeting domains:{variables} and nodes:{variables}"}
-{"query": "Targeting domains:node-D7 and nodes:node-[224\\ 226-229\\ 231-233] child of command 3003", "answer": "Targeting domains:{variables} and nodes:{variables}"}
-{"query": "Targeting domains:node-D0 and nodes:node-[8\\ 12-13\\ 15\\ 18-19]", "answer": "Targeting domains:{variables} and nodes:{variables}"}
-{"query": "Targeting domains:node-D6 and nodes:node-[192-223] child of command 4002", "answer": "Targeting domains:{variables} and nodes:{variables}"}
-{"query": "Targeting domains:node-D4 and nodes:node-129 child of command 3436", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "power/control problem", "answer": "power/control problem"}
+{"query": "NIFF: node node-199 detected a failed network connection on network 5.5.224.0 via interface alt0", "answer": "NIFF: node {variables} detected a failed network connection on network {variables} via interface {variables}"}
+{"query": "psu failure\\ ambient=28", "answer": "psu failure\\ ambient={variables}"}
+{"query": "Temperature (43C) exceeds warning threshold", "answer": "Temperature {variables} exceeds warning threshold"}
+{"query": "ServerFileSystem: ServerFileSystem domain root23_local is full", "answer": "ServerFileSystem: ServerFileSystem domain {variables} is full"}
+{"query": "haltcluster (command 2980)", "answer": "haltcluster (command {variables})"}
+{"query": "1 failed to configure resourcemgmt subsystem err = 10", "answer": "{variables} failed to configure resourcemgmt subsystem err = {variables}"}
+{"query": "update received", "answer": "update received"}

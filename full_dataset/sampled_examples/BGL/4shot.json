@@ -1,4 +1,4 @@
-{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
-{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
-{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
-{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
+{"query": "core configuration register: 0x00002000", "answer": "core configuration register: {variables}"}
+{"query": "ciod: cpu 0 at treeaddr 454 sent unrecognized message 0xffffffff", "answer": "ciod: cpu {variables} at treeaddr {variables} sent unrecognized message {variables}"}
+{"query": "floating point instr. enabled.....1", "answer": "floating point instr. enabled.....{variables}"}
+{"query": "machine check interrupt (bit=0x06): L3 major internal error", "answer": "machine check interrupt (bit={variables}): L3 major internal error"}

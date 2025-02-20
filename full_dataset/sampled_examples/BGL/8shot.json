@@ -1,8 +1,8 @@
-{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
-{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
-{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
-{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
-{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
-{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
-{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
-{"query": "machine check enable..............1", "answer": "machine check enable..............{variables}"}
+{"query": "Node card VPD check: U11 node in processor card slot J18 do not match. VPD ecid 075704D3CF7BFFFF0E0B1B0096D7, found 04D48092462FFFFF0A0B1B1054D5", "answer": "Node card VPD check: {variables} node in processor card slot {variables} do not match. VPD ecid {variables}, found {variables}"}
+{"query": "EndServiceAction 224 performed upon R36-M1-NE by root", "answer": "EndServiceAction {variables} performed upon {variables} by {variables}"}
+{"query": "critical input interrupt enable...0", "answer": "critical input interrupt enable...{variables}"}
+{"query": "data storage interrupt", "answer": "data storage interrupt"}
+{"query": "L3 global control register: 0x001249f0", "answer": "L3 global control register: {variables}"}
+{"query": "correctable error detected in EDRAM bank 1.....0", "answer": "correctable error detected in EDRAM bank {variables}"}
+{"query": "memory manager refresh contention................0", "answer": "memory manager refresh contention................{variables}"}
+{"query": "MidplaneSwitchController performing bit sparing on R33-M1-L0-U22-C bit 3", "answer": "MidplaneSwitchController performing bit sparing on {variables} bit {variables}"}

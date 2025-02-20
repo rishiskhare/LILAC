@@ -1,8 +1,8 @@
-{"query": "reverse mapping checking getaddrinfo for dsl-187-172-55-163-dyn.prod-infinitum.com.mx [187.172.55.163] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
-{"query": "Invalid user how from 115.71.16.143", "answer": "Invalid user {variables} from {variables}"}
-{"query": "input_userauth_request: invalid user test [preauth]", "answer": "input_userauth_request: invalid user {variables} [preauth]"}
+{"query": "Disconnecting: Packet corrupt [preauth]", "answer": "Disconnecting: Packet corrupt [preauth]"}
+{"query": "Failed password for root from 123.235.32.19 port 34430 ssh2", "answer": "Failed password for {variables} from {variables} port {variables} ssh2"}
+{"query": "Received disconnect from 173.239.228.96: 11: Client disconnecting normally [preauth]", "answer": "Received disconnect from {variables}: {variables}: Client disconnecting normally [preauth]"}
+{"query": "Address 94.229.73.156 maps to hosted-by.enoctus.com, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!", "answer": "Address {variables} maps to {variables} but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!"}
 {"query": "pam_unix(sshd:auth): check pass; user unknown", "answer": "pam_unix(sshd:auth): check pass; user unknown"}
-{"query": "Failed password for git from 42.159.145.29 port 40264 ssh2", "answer": "Failed password for {variables} from {variables} port {variables} ssh2"}
-{"query": "Connection closed by 82.194.53.101 [preauth]", "answer": "Connection closed by {variables} [preauth]"}
-{"query": "Received disconnect from 203.190.163.125: 11: Bye Bye [preauth]", "answer": "Received disconnect from {variables}: {variables}: Bye Bye [preauth]"}
-{"query": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=bb219-74-10-118.singnet.com.sg user=root", "answer": "pam_unix(sshd:auth): authentication failure; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}
+{"query": "Disconnecting: Too many authentication failures for user [preauth]", "answer": "Disconnecting: Too many authentication failures for {variables} [preauth]"}
+{"query": "PAM service(sshd) ignoring max retries; 6 > 3", "answer": "PAM service(sshd) ignoring max retries; {variables} > {variables}"}
+{"query": "Disconnecting: Too many authentication failures for root [preauth]", "answer": "Disconnecting: Too many authentication failures for {variables} [preauth]"}

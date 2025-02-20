@@ -1,64 +1,64 @@
-{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif_comm.c[823]: Command not completed after timeout: cmd=TAVOR_IF_CMD_HW2SW_MPT (0xf), token=0x1681, pid=0x287D, go=0", "answer": "THH({variables}): {variables}[{variables}]: Command not completed after timeout: cmd={variables}, token={variables}, pid={variables}, go={variables}"}
-{"query": "DHCPDISCOVER from 00:14:22:11:94:bb via eth1", "answer": "DHCPDISCOVER from {variables} via {variables}"}
+{"query": "Listening on LPF/eth1/00:11:43:e3:b9:7e/A_net", "answer": "Listening on {variables}"}
 {"query": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)", "answer": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"}
-{"query": "USB Universal Host Controller Interface driver v2.2", "answer": "USB Universal Host Controller Interface driver {variables}"}
-{"query": "VFS: Disk quotas dquot_6.5.1", "answer": "VFS: Disk quotas {variables}"}
-{"query": "invcol Error: Not enough space available in /var folder.", "answer": "invcol Error: Not enough space available in {variables} folder."}
-{"query": "PCI: Using MMCONFIG at e0000000", "answer": "PCI: Using MMCONFIG at {variables}"}
-{"query": "Instrumentation Service EventID: 1154 Voltage sensor detected a failure value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: OK (Normal) Discrete voltage state: Bad", "answer": "Instrumentation Service EventID: {variables} Voltage sensor detected a failure value Sensor location: {variables} Chassis location: {variables} Previous state was: {variables} Discrete voltage state: {variables}"}
-{"query": "jADBPUuH026143: SYSERR(root): queueup: cannot create queue file qfjADBPUuH026143, euid=51, fd=-1, fp=0x0: No space left on device", "answer": "{variables}: SYSERR({variables}): queueup: cannot create queue file {variables}, euid={variables}, fd={variables}, fp={variables}: No space left on device"}
 {"query": "haldaemon -TERM succeeded", "answer": "{variables} -TERM succeeded"}
-{"query": "LustreError: 30427:0:(module.c:46:kportal_assertion_failed()) LBUG", "answer": "LustreError: {variables}:({variables}) LBUG"}
-{"query": "couldn't ping address #27#:3095 using #89#:1, 0x23a1 (pan_sock: timeout)", "answer": "couldn't ping address {variables} using {variables}, {variables} (pan_sock: timeout)"}
-{"query": "Configuration file /etc/smartd.conf parsed but has no entries (like /dev/hda)", "answer": "Configuration file {variables} parsed but has no entries (like {variables})"}
-{"query": "Support MySQL by buying support/licenses at https://#4#", "answer": "Support {variables} by buying support/licenses at {variables}"}
-{"query": "- key was been created 15429758 seconds in future", "answer": "- key was been created {variables} seconds in future"}
-{"query": "[ib_sm_assign.c:568]: Force port to go down due to LID conflict, node - GUID=5ad000004cd30, port=1", "answer": "[{variables}]: Force port to go down due to LID conflict, node - GUID={variables}, port={variables}"}
+{"query": "disconnected by application in remote: 'Disconnect requested by Windows SSH Client.'", "answer": "disconnected by application in remote: '{variables}'"}
+{"query": "Free pages: 14112kB (0kB HighMem)", "answer": "Free pages: {variables} ({variables} HighMem)"}
+{"query": "klogd shutdown succeeded", "answer": "{variables} shutdown succeeded"}
+{"query": "[ib_sm_assign.c:273]: Clean up SA resources for port forced down due to subnet prefix change, node - GUID=5ad000004d2d8, port=1", "answer": "[{variables}]: Clean up SA resources for port forced down due to subnet prefix change, node - GUID={variables}, port={variables}"}
+{"query": "TCP: drop open request from 10.100.8.34/32784", "answer": "TCP: drop open request from {variables}"}
+{"query": "lctl R running task 0 14212 14206 (NOTLB)", "answer": "lctl R running task {variables} {variables} {variables} (NOTLB)"}
+{"query": "Enabling local filesystem quotas: succeeded", "answer": "Enabling local filesystem quotas: succeeded"}
 {"query": "Started working: 0 available services", "answer": "Started working: {variables} available services"}
-{"query": "Free pages: 19756kB (0kB HighMem)", "answer": "Free pages: {variables} ({variables} HighMem)"}
-{"query": "Freeing unused kernel memory: 188k freed", "answer": "Freeing unused kernel memory: {variables} freed"}
-{"query": "Did not receive identification string from ::ffff:10.100.12.250", "answer": "Did not receive identification string from {variables}"}
+{"query": "Processor [CPU3] (supports C1)", "answer": "Processor {variables} (supports C1)"}
+{"query": "Password authentication for user #23# accepted.", "answer": "Password authentication for user {variables} accepted."}
+{"query": "Console: colour VGA+ 80x25", "answer": "Console: colour {variables} {variables}"}
+{"query": "LustreError: dumping log to /tmp/lustre-log-#9#.1131655927.13967", "answer": "LustreError: dumping log to {variables}"}
+{"query": "ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx", "answer": "ide: Assuming {variables} system bus speed for PIO modes; override with idebus=xx"}
+{"query": "[IB_NET][ipoib_sarp_rewrite_send][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/host/ulp/ipoib/obj_host_amd64_custom1_rhel4/ts_ipoib/ipoib_arp.c:1008]ib0: can't find hw address for hash 00:00:00:00:00:00", "answer": "[IB_NET][{variables}][{variables}]ib0: can't find hw address for hash {variables}"}
+{"query": "#26# : TTY=unknown ; PWD=/mnt_projects/sysapps/#125#-test/nodehwtest/breakfix ; USER=root ; COMMAND=/tmp/tmp.OZysFE6419", "answer": "{variables} : TTY={variables} ; PWD={variables} ; USER={variables} ; COMMAND={variables}"}
+{"query": "Intel(R) PRO/1000 Network Driver - version 6.0.54-k2-NAPI", "answer": "Intel(R) PRO/{variables} Network Driver - version {variables}"}
+{"query": "Kickstart Install: tbird kernel package", "answer": "Kickstart Install: {variables}"}
+{"query": "Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled", "answer": "Serial: {variables} driver $Revision: {variables} $ {variables} ports, IRQ sharing enabled"}
+{"query": "time.c: Detected 3591.370 MHz processor.", "answer": "{variables}: Detected {variables} MHz processor."}
+{"query": "bad username [\\\\\\\\\\\\\\\\\\\\\\\\\\\\]", "answer": "bad username {variables}"}
+{"query": "synchronisation lost", "answer": "synchronisation lost"}
+{"query": ": server is down.", "answer": ": server is down."}
+{"query": "[INFO]: Configuration caused by some ports in INIT state", "answer": "[INFO]: Configuration caused by some ports in INIT state"}
+{"query": "Loading keyring", "answer": "Loading keyring"}
+{"query": "Checking all file systems.", "answer": "Checking all file systems."}
+{"query": "WARNING: DNS lookup failed for \"#82#\".", "answer": "WARNING: DNS lookup failed for \"{variables}\"."}
+{"query": "ACPI: IRQ9 used by override.", "answer": "ACPI: {variables} used by override."}
+{"query": "crond shutdown failed", "answer": "{variables} shutdown failed"}
+{"query": "User jtfish, coming from #45#, authenticated.", "answer": "User {variables}, coming from {variables}, authenticated."}
+{"query": "mptbase: Initiating ioc0 bringup", "answer": "mptbase: Initiating {variables} bringup"}
+{"query": "EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal", "answer": "EXT3-fs error (device {variables}): {variables}: Detected aborted journal"}
+{"query": "/tmp: Clearing", "answer": "{variables}: Clearing"}
+{"query": "Using cfq io scheduler", "answer": "Using cfq io scheduler"}
+{"query": "Now running on #135#'s privileges.", "answer": "Now running on {variables}'s privileges."}
 {"query": "dcdbas failed to allocate memory for BIOS Update", "answer": "{variables} failed to allocate memory for BIOS Update"}
-{"query": "Kerberos password accepted for user #57# (#57#@#24#).", "answer": "Kerberos password accepted for user {variables} ({variables})."}
-{"query": "ACPI: Using IOAPIC for interrupt routing", "answer": "ACPI: Using IOAPIC for interrupt routing"}
-{"query": "Fusion MPT SCSI Host driver 3.02.18", "answer": "Fusion MPT SCSI Host driver {variables}"}
-{"query": "md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27", "answer": "md driver {variables} MAX_MD_DEVS={variables}, MD_SB_DISKS={variables}"}
-{"query": "time reset -0.441796 s", "answer": "time reset {variables} s"}
-{"query": "Kickstart/Yast Install: Finished installation on localhost.localdomain", "answer": "Kickstart/Yast Install: Finished installation on {variables}"}
-{"query": "#57# : TTY=pts/3 ; PWD=/home/#57# ; USER=root ; COMMAND=/apps/contrib/sm", "answer": "{variables} : TTY={variables} ; PWD={variables} ; USER={variables} ; COMMAND={variables}"}
-{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[781]: XHH_hob_register_KL(1): [MM_create_mr]:MM_mr_get_keys failed", "answer": "THH({variables}): {variables}[{variables}]: XHH_hob_register_KL({variables}): [MM_create_mr]:{variables}"}
-{"query": "Sending on LPF/eth1/00:11:43:e3:ba:ad/D_net", "answer": "Sending on {variables}"}
-{"query": "[ib_sm_sweep.c:433]: IB node 0x0005AD000003BD50 port 1 had discovery timeout", "answer": "[{variables}]: IB node {variables} port {variables} had discovery timeout"}
-{"query": "Setting clock (localtime): Thu Nov 10 18:21:22 MST 2005 succeeded", "answer": "Setting clock (localtime): {variables} succeeded"}
-{"query": "Now running on root's privileges.", "answer": "Now running on {variables}'s privileges."}
-{"query": "SCSI device sda: 573030400 512-byte hdwr sectors (293392 MB)", "answer": "SCSI device {variables}: {variables} {variables}-byte hdwr sectors ({variables} MB)"}
-{"query": "Bootmem setup node 0 0000000000000000-00000001c0000000", "answer": "Bootmem setup node {variables} {variables}"}
-{"query": "DHCPREQUEST for 10.100.249.250 from 00:11:43:e3:95:16 via eth0", "answer": "DHCPREQUEST for {variables} from {variables} via {variables}"}
-{"query": "smartd shutdown succeeded", "answer": "{variables} shutdown succeeded"}
-{"query": "/usr/bin/mysqladmin -u root -h tbird-admin1 password 'new-password'", "answer": "{variables} -u {variables} -h {variables} password '{variables}'"}
-{"query": "[ib_sm_bringup.c:577]: Force neighbor port (node=5ad0000040b5c, port=1, state=4) to DOWN because (1) 1st sweep or (2) role change.", "answer": "[{variables}]: Force neighbor port (node={variables}, port={variables}, state={variables}) to DOWN because ({variables}) 1st sweep or ({variables}) role change."}
-{"query": "haldaemon shutdown failed", "answer": "{variables} shutdown failed"}
-{"query": "Internet Systems Consortium DHCP Server V3.0.1", "answer": "Internet Systems Consortium DHCP Server {variables}"}
-{"query": "pan_kernel: expected release: 2.6.9-15.EL.rootsmp release is: 2.6.9-1.4.5.6smp", "answer": "pan_kernel: expected release: {variables} release is: {variables}"}
-{"query": "checking TSC synchronization across 2 CPUs: passed.", "answer": "checking TSC synchronization across {variables} CPUs: passed."}
-{"query": "mount to NFS server 'nfs1' failed", "answer": "mount to NFS server {variables} failed"}
-{"query": "nfsd shutdown succeeded", "answer": "{variables} shutdown succeeded"}
-{"query": "file-max limit 65536 reached", "answer": "file-max limit {variables} reached"}
-{"query": "PanFS Client version: rhel_4_amd64/release 2.3.1-171331.15 SMP", "answer": "PanFS Client version: {variables} SMP"}
-{"query": "[ib_sm_assign.c:273]: Clean up SA resources for port forced down due to subnet prefix change, node - GUID=5ad0000047828, port=1", "answer": "[{variables}]: Clean up SA resources for port forced down due to subnet prefix change, node - GUID={variables}, port={variables}"}
-{"query": "RPC call returned error 101", "answer": "RPC call returned error {variables}"}
-{"query": "Wrote 0 leases to leases file.", "answer": "Wrote {variables} leases to leases file."}
-{"query": "Node 0 DMA: 1*4kB 1*8kB 0*16kB 0*32kB 1*64kB 4*128kB 1*256kB 1*512kB 0*1024kB 1*2048kB 2*4096kB = 11596kB", "answer": "Node {variables} DMA: {variables} = {variables}"}
-{"query": "Total HugeTLB memory allocated, 0", "answer": "Total HugeTLB memory allocated, {variables}"}
-{"query": "ACPI wakeup devices:", "answer": "ACPI wakeup devices:"}
-{"query": "FAILED LOGIN 2 FROM (null) FOR , Authentication failure", "answer": "FAILED LOGIN {variables} FROM (null) FOR , Authentication failure"}
-{"query": "fs_client_cap: starting to scrub the caps", "answer": "fs_client_cap: starting to scrub the caps"}
-{"query": "PCI Root Bridge [PCI0] (00:00)", "answer": "PCI Root Bridge [{variables}] ({variables})"}
-{"query": "Unmounting PanFS filesystems: succeeded", "answer": "Unmounting {variables} filesystems: {variables}"}
-{"query": "in your dhcpd.conf file for the network segment", "answer": "in your dhcpd.conf file for the network segment"}
-{"query": "Processor #0 15:4 APIC version 16", "answer": "Processor {variables} {variables} APIC version {variables}"}
-{"query": "Package Release ID=R109030 Package Description=Dell Server System BIOS, A04 Support Log path=/var/log/#26#/updatepackage/log/support/R109030.log Exit code = 1 (Failure)", "answer": "Package Release ID={variables} Package Description={variables} Support Log path={variables}"}
-{"query": "#26# : TTY=unknown ; PWD=/mnt_projects/sysapps/#125#-test/nodehwtest/breakfix ; USER=root ; COMMAND=/tmp/tmp.KrUBZX6417", "answer": "{variables} : TTY={variables} ; PWD={variables} ; USER={variables} ; COMMAND={variables}"}
-{"query": "time.c: Using HPET based timekeeping.", "answer": "{variables}: Using {variables} based timekeeping."}
-{"query": "/var: recovering journal", "answer": "{variables}: recovering journal"}
-{"query": "jAEB23nv029880: 2: fl=0x1, mode=10600: FIFO: dev=0/7, ino=2978744, nlink=1, u/gid=0/0, size=0", "answer": "{variables}: {variables}: fl={variables}, mode={variables}: FIFO: dev={variables}, ino={variables}, nlink={variables}, u/gid={variables}, size={variables}"}
+{"query": "call_verify: RPC call version mismatch!", "answer": "call_verify: RPC call version mismatch!"}
+{"query": "BIOS-e820: 00000000e0000000 - 00000000fec90000 (reserved)", "answer": "BIOS-{variables}: {variables} - {variables} (reserved)"}
+{"query": "Kickstart: configure services", "answer": "Kickstart: configure services"}
+{"query": "Kickstart: setup firstboot", "answer": "Kickstart: setup firstboot"}
+{"query": "colour VGA+ 80x25", "answer": "colour {variables} {variables}"}
+{"query": "[KERNEL_IB][ib_mad_static_compute_base][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_static.c:132]Couldn't find a suitable network device; setting lid_base to 1", "answer": "[KERNEL_IB][ib_mad_static_compute_base][{variables}]Couldn't find a suitable network device; setting lid_base to {variables}"}
+{"query": "RPC: error 512 connecting to server saon101v2", "answer": "RPC: error {variables} connecting to server {variables}"}
+{"query": "shutting down for system halt", "answer": "shutting down for system {variables}"}
+{"query": "THH(1): HCR dump END", "answer": "THH({variables}): HCR dump END"}
+{"query": "setup NTP client", "answer": "setup NTP client"}
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif.c[212]: Failed command 0x24 (TAVOR_IF_CMD_MAD_IFC): status=0x103 (0x0103 - unexpected error - fatal)", "answer": "THH({variables}): {variables}[{variables}]: Failed command {variables} (TAVOR_IF_CMD_MAD_IFC): status={variables} ({variables} - unexpected error - fatal)"}
+{"query": "SELinux: Disabled at runtime.", "answer": "SELinux: Disabled at runtime."}
+{"query": "omsad32 shutdown succeeded", "answer": "{variables} shutdown succeeded"}
+{"query": "Wrote 0 deleted host decls to leases file.", "answer": "Wrote {variables} deleted host decls to leases file."}
+{"query": "ntpd shutdown succeeded", "answer": "{variables} shutdown succeeded"}
+{"query": "Opened configuration file /etc/smartd.conf", "answer": "Opened configuration file {variables}"}
+{"query": "nfs: server nfs1 not responding, still trying", "answer": "nfs: server {variables} not responding, still trying"}
+{"query": "pan_ips: error -- cfg target addresses, 0x5 (Out of memory), err_loc=1, rhel_4_amd64/release/build/panfs/ips/pan_ips_cfg.c:294", "answer": "pan_ips: error -- cfg target addresses, {variables} (Out of memory), {variables}"}
+{"query": "You can start the MySQL daemon with:", "answer": "You can start the {variables} daemon with:"}
+{"query": "Keyboard on isa0060/serio0 reports too many keys pressed.", "answer": "Keyboard on {variables} reports too many keys pressed."}
+{"query": "Kickstart Install: SISUITE Client RPMS", "answer": "Kickstart Install: {variables}"}
+{"query": "probe of vesafb0 failed with error -6", "answer": "probe of {variables} failed with error {variables}"}
+{"query": "Floppy drive(s): fd0 is 1.44M", "answer": "Floppy drive(s): {variables} is {variables}"}
+{"query": "[KERNEL_IB][ib_cache_update][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/core/obj_host_amd64_custom1_rhel4/ts_ib_core/core_cache.c:389]port_query failed (-22) for InfiniHost0", "answer": "[KERNEL_IB][ib_cache_update][{variables}]port_query failed ({variables}) for {variables}"}
+{"query": "[INFO]: Receive SystemImageGUID change trap from port (LID= 29)", "answer": "[INFO]: Receive SystemImageGUID change trap from port (LID= {variables})"}
+{"query": "Listening on LPF/eth1/00:11:43:e3:ba:df/C_net", "answer": "Listening on {variables}"}

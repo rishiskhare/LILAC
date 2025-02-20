@@ -1,4 +1,4 @@
-{"query": "Receiving block blk_-8799522312627279534 src: /10.251.109.236:47869 dest: /10.251.109.236:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}
-{"query": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001851_0/part-01851. blk_112309473857513866", "answer": "BLOCK* NameSystem.allocateBlock: {variables} {variables}"}
-{"query": "PacketResponder 2 for block blk_-3376664191919063228 terminating", "answer": "PacketResponder {variables} for block {variables} terminating"}
-{"query": "Received block blk_-7446360355203828416 of size 67108864 from /10.250.10.176", "answer": "Received block {variables} of size {variables} from {variables}"}
+{"query": "BLOCK* ask 10.251.31.242:50010 to replicate blk_-919439116365725304 to datanode(s) 10.251.65.203:50010", "answer": "BLOCK* ask {variables} to replicate {variables} to datanode(s) {variables}"}
+{"query": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000315_0/part-00315. blk_8463947063753504358", "answer": "BLOCK* NameSystem.allocateBlock: {variables} {variables}"}
+{"query": "Received block blk_-8191677345482862686 src: /10.251.123.20:56799 dest: /10.251.123.20:50010 of size 3541870", "answer": "Received block {variables} src: {variables} dest: {variables} of size {variables}"}
+{"query": "Exception in receiveBlock for block blk_8085135783040518166 java.io.IOException: Connection reset by peer", "answer": "Exception in receiveBlock for block {variables} java.io.IOException: Connection reset by peer"}

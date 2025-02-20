@@ -1,4 +1,4 @@
-{"query": "reverse mapping checking getaddrinfo for dsl-187-172-55-163-dyn.prod-infinitum.com.mx [187.172.55.163] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
-{"query": "Invalid user how from 115.71.16.143", "answer": "Invalid user {variables} from {variables}"}
-{"query": "input_userauth_request: invalid user test [preauth]", "answer": "input_userauth_request: invalid user {variables} [preauth]"}
+{"query": "reverse mapping checking getaddrinfo for lvhqgeek.com-1486436562555-512mb-fra1-01 [46.101.123.127] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
+{"query": "Failed password for sshd from 103.99.0.122 port 49598 ssh2", "answer": "Failed password for {variables} from {variables} port {variables} ssh2"}
 {"query": "pam_unix(sshd:auth): check pass; user unknown", "answer": "pam_unix(sshd:auth): check pass; user unknown"}
+{"query": "Bad packet length 1819045217. [preauth]", "answer": "Bad packet length {variables}. [preauth]"}

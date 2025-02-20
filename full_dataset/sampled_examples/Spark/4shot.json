@@ -1,4 +1,4 @@
-{"query": "Got job 122 (collect at IPLoM.py:673) with 13 output partitions", "answer": "Got job {variables} (collect at {variables}) with {variables} output partitions"}
-{"query": "Setting up ContainerLaunchContext", "answer": "Setting up ContainerLaunchContext"}
-{"query": "Unregistering ApplicationMaster with SUCCEEDED", "answer": "Unregistering ApplicationMaster with {variables}"}
-{"query": "Asked to send map output locations for shuffle 19 to mesos-slave-20:49750", "answer": "Asked to send map output locations for shuffle {variables} to {variables}"}
+{"query": "Successfully stopped SparkContext", "answer": "Successfully stopped SparkContext"}
+{"query": "Driver 10.10.34.34:43670 disassociated! Shutting down.", "answer": "Driver {variables} disassociated! Shutting down."}
+{"query": "Shutdown hook called", "answer": "Shutdown hook called"}
+{"query": "Running Spark version 1.6.0", "answer": "Running Spark version {variables}"}
