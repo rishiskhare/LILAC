@@ -1,5 +1,5 @@
 cd benchmark/evaluation
-python LILAC_eval.py -full --shot 32 --example_size 3 --model gemini-1.5-flash
+python LILAC_eval.py -full --shot 1 --example_size 1 --model gemini-1.5-flash
 
 # for a in 8 16 32 64 128
 # do

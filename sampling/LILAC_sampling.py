@@ -28,7 +28,14 @@ datasets = [
     "Proxifier",
     "Spark",
     "Thunderbird",
-    "Zookeeper"
+    "Zookeeper",
+
+    # Julien's custom datasets
+    "audit",
+    "cron",
+    "dhcp",
+    "puppet",
+    "sshd",
 ]
 
 benchmark = {
@@ -105,7 +112,33 @@ benchmark = {
     'Mac': {
         'log_file': 'Mac/Mac_full.log',
         'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
-    }
+    },
+
+    # Julien's custom datasets
+    'audit': {
+        'log_file': 'audit/audit_full.log',
+        'log_format': '<Content>',
+    },
+
+    'cron': {
+        'log_file': 'cron/cron_full.log',
+        'log_format': '<Content>',
+    },
+
+    'dhcp': {
+        'log_file': 'dhcp/dhcp_full.log',
+        'log_format': '<Content>',
+    },
+
+    'puppet': {
+        'log_file': 'puppet/puppet_full.log',
+        'log_format': '<Content>',
+    },
+
+    'sshd': {
+        'log_file': 'sshd/sshd_full.log',
+        'log_format': '<Content>',
+    },
 }
 
 

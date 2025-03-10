@@ -57,6 +57,13 @@ datasets_full = [
     "Linux",
     "Mac",
     "Thunderbird",
+
+    # Julien's custom datasets
+    "audit",
+    "cron",
+    "dhcp",
+    "puppet",
+    "sshd",
 ]
 
 

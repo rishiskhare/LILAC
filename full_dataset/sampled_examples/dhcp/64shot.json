@@ -1,0 +1,64 @@
+{"query": "Sep 19 08:34:47 dl-PC dhclient[872]: Listening on LPF/p1p1/98:4b:e1:8f:c4:d9", "answer": "{variables} {variables} dhclient[{variables}]: Listening on LPF/{variables}/{variables}"}
+{"query": "Apr  6 10:29:11 ab763 dhclient[4497]: XMT: Info-Request on enp1s0, interval 34870ms.", "answer": "{variables} {variables} dhclient[{variables}]: XMT: {variables} on {variables}, interval {variables}."}
+{"query": "Sep 10 23:50:16 cornette-hda dhclient: No working leases in persistent database - sleeping.", "answer": "{variables} {variables} dhclient: No working leases in persistent database - sleeping."}
+{"query": "Jan  6 06:56:30 host-10-207-160-86 dhclient[9306]: Can't create /var/run/dhclient-ens2f0.pid: Permission denied", "answer": "{variables} {variables} dhclient[{variables}]: Can't create {variables}: Permission denied"}
+{"query": "Nov 20 13:48:21 rhsdev-docker1 dhclient[27349]: exiting.", "answer": "{variables} {variables} dhclient[{variables}]: exiting."}
+{"query": "Aug  2 10:51:58 undercloud-0 dhclient[883]: RCV: Reply message on eth2 from fe80::5054:ff:fe53:161c.", "answer": "{variables} {variables} dhclient[{variables}]: RCV: Reply message on {variables} from {variables}."}
+{"query": "Oct  5 09:46:47 RH-AD dhclient[1501]: All rights reserved.", "answer": "{variables} {variables} dhclient[{variables}]: All rights reserved."}
+{"query": "Sep  4 16:29:22 vega01 dhclient[25035]: DHCPREQUEST on ovirtmgmt to 10.35.28.1 port 67 (xid=0x23df05cd)", "answer": "{variables} {variables} dhclient[{variables}]: {variables} on {variables} to {variables} port {variables} (xid={variables})"}
+{"query": "Dec  7 07:15:37 vm-fc6 dhclient: dhclient(4207) is already running - exiting. ", "answer": "{variables} {variables} dhclient: dhclient({variables}) is already running - exiting."}
+{"query": "Jun 10 16:31:02 kite dhclient[16023]: Discarding packet with bogus hlen.", "answer": "{variables} {variables} dhclient[{variables}]: Discarding packet with bogus hlen."}
+{"query": "Nov  9 18:09:08 aqua-vds7 dhclient[9674]: Usage: dhclient [-4|-6] [-SNTP1dvrx] [-nw] [-p <port>] [-D LL|LLT]#012                [-s server-addr] [-cf config-file] [-lf lease-file]#012                [-pf pid-file] [--no-pid] [-e VAR=val]#012                [-I <dhcp-client-identifier>] [-B]#012                [-H <host-name> | -F <fqdn.fqdn>] [-timeout <timeout>]#012                [-V <vendor-class-identifier>]#012                [-R <request option list>]#012                [-sf script-file] [interface]", "answer": "{variables} {variables} dhclient[{variables}]: Usage: dhclient {variables}"}
+{"query": "Aug 14 08:25:01 localhost dhclient[6179]: bound to 169.254.95.120 -- renewal in 259 seconds.", "answer": "{variables} {variables} dhclient[{variables}]: bound to {variables} -- renewal in {variables}."}
+{"query": "Dec 27 10:48:43 lago-rhv-suite-master-host-0 dhclient[6525]: ", "answer": "{variables} {variables} dhclient[{variables}]:"}
+{"query": "Sep 10 17:55:07 cornette-hda dhclient: DHCPOFFER from 192.168.1.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Aug 14 20:38:14 localhost dhclient[6179]: No working leases in persistent database - sleeping.", "answer": "{variables} {variables} dhclient[{variables}]: No working leases in persistent database - sleeping."}
+{"query": "Jan 12 19:37:05 ovirt dhclient[5412]: Unknown command: -do-you-support-loading-duid-from-lease-files?", "answer": "{variables} {variables} dhclient[{variables}]: Unknown command: {variables}"}
+{"query": "Aug 16 04:49:53 localhost dhclient[6267]: ", "answer": "{variables} {variables} dhclient[{variables}]:"}
+{"query": "Apr 16 21:52:10 jeffslaptop dhclient: ", "answer": "{variables} {variables} dhclient:"}
+{"query": "Sep 10 17:51:49 cornette-hda dhclient: Listening on LPF/sit0/", "answer": "{variables} {variables} dhclient: Listening on LPF/{variables}/"}
+{"query": "Dec 21 22:06:30 perricum dhclient: Listening on LPF/eth1/00:0e:35:68:17:93", "answer": "{variables} {variables} dhclient: Listening on LPF/{variables}/{variables}"}
+{"query": "Sep 23 20:13:01 cornette-ftp dhclient: ", "answer": "{variables} {variables} dhclient:"}
+{"query": "Aug  2 09:30:58 undercloud-0 dhclient[698]: message status code Success: \"all addresses still on link\"", "answer": "{variables} {variables} dhclient[{variables}]: message status code Success: \"all addresses still on link\""}
+{"query": "Dec 21 22:06:30 perricum dhclient: Sending on   LPF/eth1/00:0e:35:68:17:93", "answer": "{variables} {variables} dhclient: Sending on   LPF/{variables}/{variables}"}
+{"query": "Dec 29 14:36:19 shredder-1-2 dhclient: can't create /var/lib/dhcp/dhclient-eth1.leases: Read-only file system ", "answer": "{variables} {variables} dhclient: can't create {variables}: Read-only file system"}
+{"query": "Feb  8 14:12:02 localhost dhclient: send_packet: Network is down", "answer": "{variables} {variables} dhclient: send_packet: Network is down"}
+{"query": "Mar  3 17:34:31 cornette-fc3-lt dhclient: DHCPNAK from 192.168.1.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Oct  5 09:52:56 RH-AD dhclient[1500]: ", "answer": "{variables} {variables} dhclient[{variables}]:"}
+{"query": "Aug 15 13:51:54 localhost dhclient[8675]: dhclient.c:2707: Failed to send 300 byte long packet over ens4f0 interface.", "answer": "{variables} {variables} dhclient[{variables}]: dhclient.c:{variables}: Failed to send {variables} byte long packet over {variables} interface."}
+{"query": "Apr 11 04:47:26 undercloud dhclient[826]: DHCPACK from 10.84.5.100 (xid=0x28d6e0de)", "answer": "{variables} {variables} dhclient[{variables}]: {variables} from {variables} (xid={variables})"}
+{"query": "Mar 22 09:03:51 dhcp163-121 dhclient[732]: suspect value in domain_name option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_name option - discarded"}
+{"query": "Apr  3 17:05:02 jeffslaptop dhclient: If you did get this software from ftp.isc.org and have not", "answer": "{variables} {variables} dhclient: If you did get this software from ftp.isc.org and have not"}
+{"query": "Jun 18 17:45:20 localhost dhclient: Trying recorded lease 192.168.0.2", "answer": "{variables} {variables} dhclient: Trying recorded lease {variables}"}
+{"query": "Dec  6 10:29:18 localhost dhclient: DHCPACK from 192.168.0.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Sep 19 08:34:47 dl-PC dhclient[872]: ", "answer": "{variables} {variables} dhclient[{variables}]:"}
+{"query": "Sep 11 10:34:12 cornette-hda dhclient: DHCPDISCOVER on sit0 to 255.255.255.255 port 67 interval 8", "answer": "{variables} {variables} dhclient: {variables} on {variables} to {variables} port 67 interval {variables}"}
+{"query": "Sep 10 17:51:49 cornette-hda dhclient: Sending on   Socket/fallback", "answer": "{variables} {variables} dhclient: Sending on   Socket/fallback"}
+{"query": "Sep 10 18:36:27 cornette-hda dhclient: No DHCPOFFERS received.", "answer": "{variables} {variables} dhclient: No {variables} received."}
+{"query": "Oct 13 20:25:27 fedora-work dhclient[1210]: RCV: Reply message on wlp3s0 from fe80::ea94:f6ff:fe90:f71c.", "answer": "{variables} {variables} dhclient[{variables}]: RCV: Reply message on {variables} from {variables}."}
+{"query": "Dec 21 22:07:31 perricum dhclient: No working leases in persistent database - sleeping.", "answer": "{variables} {variables} dhclient: No working leases in persistent database - sleeping."}
+{"query": "May  9 20:18:14 jeffslaptop dhclient: exiting.", "answer": "{variables} {variables} dhclient: exiting."}
+{"query": "Sep  6 01:40:35 undercloud dhclient[585]: suspect value in domain_search option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_search option - discarded"}
+{"query": "Sep 19 08:34:47 dl-PC dhclient[872]: Sending on   LPF/p1p1/98:4b:e1:8f:c4:d9", "answer": "{variables} {variables} dhclient[{variables}]: Sending on   LPF/{variables}/{variables}"}
+{"query": "Sep  7 18:56:07 cornette-hda dhclient: sit0: unknown hardware address type 776", "answer": "{variables} {variables} dhclient: {variables}: unknown hardware address type {variables}"}
+{"query": "Jul 26 08:36:08 localhost dhclient[1059]: Can't create /var/run/dhclient-eth2.pid: Permission denied", "answer": "{variables} {variables} dhclient[{variables}]: Can't create {variables}: Permission denied"}
+{"query": "Sep 23 20:00:47 cornette-ftp dhclient: Sending on   LPF/lo/", "answer": "{variables} {variables} dhclient: Sending on   LPF/{variables}/"}
+{"query": "Jan 12 19:37:05 ovirt dhclient[5412]: Usage: dhclient [-4|-6] [-SNTPRI1dvrxi] [-nw] [-p <port>] [-D LL|LLT] #012                [-s server-addr] [-cf config-file]#012                [-df duid-file] [-lf lease-file]#012                [-pf pid-file] [--no-pid] [-e VAR=val]#012                [-sf script-file] [interface]*#012                [-C <dhcp-client-identifier>] [-B]#012                [-H <host-name> | -F <fqdn.fqdn>] [--timeout <timeout>]#012                [-V <vendor-class-identifier>]#012                [--request-options <request option list>]", "answer": "{variables} {variables} dhclient[{variables}]: Usage: dhclient {variables}"}
+{"query": "Sep  5 20:25:22 localhost dhclient[585]: suspect value in domain_search option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_search option - discarded"}
+{"query": "Sep 23 20:00:47 cornette-ftp dhclient: Listening on LPF/sit0/", "answer": "{variables} {variables} dhclient: Listening on LPF/{variables}/"}
+{"query": "Aug  2 10:51:58 undercloud-0 dhclient[883]: PRC: Renewing lease on eth2.", "answer": "{variables} {variables} dhclient[{variables}]: PRC: Renewing lease on {variables}."}
+{"query": "Aug  4 15:51:43 localhost dhclient[2233]: Sending on   LPF/eth0/6c:0b:84:a3:ff:89", "answer": "{variables} {variables} dhclient[{variables}]: Sending on   LPF/{variables}/{variables}"}
+{"query": "Apr 15 22:04:35 jeffslaptop dhclient: requesting help.", "answer": "{variables} {variables} dhclient: requesting help."}
+{"query": "Nov 20 13:48:21 rhsdev-docker1 dhclient[27349]: For info, please visit https://www.isc.org/software/dhcp/", "answer": "{variables} {variables} dhclient[{variables}]: For info, please visit {variables}"}
+{"query": "Jan 12 19:37:05 ovirt dhclient[5412]: exiting.", "answer": "{variables} {variables} dhclient[{variables}]: exiting."}
+{"query": "Mar 26 11:15:09 dhcp163-121 dhclient[745]: DHCPOFFER from 10.35.160.254", "answer": "{variables} {variables} dhclient[{variables}]: {variables} from {variables}"}
+{"query": "Sep 10 17:50:10 cornette-hda dhclient: All rights reserved.", "answer": "{variables} {variables} dhclient: All rights reserved."}
+{"query": "Sep 23 20:01:48 cornette-ftp dhclient: No DHCPOFFERS received.", "answer": "{variables} {variables} dhclient: No {variables} received."}
+{"query": "Jan 19 10:12:39 localhost dhclient: receive_packet failed on eth1: Network is down", "answer": "{variables} {variables} dhclient: receive_packet failed on {variables}: Network is down"}
+{"query": "Apr  8 21:30:20 jeffslaptop dhclient: Corrupt lease file - possible data loss!", "answer": "{variables} {variables} dhclient: Corrupt lease file - possible data loss!"}
+{"query": "Sep 23 20:13:01 cornette-ftp dhclient: Copyright 2004 Internet Systems Consortium.", "answer": "{variables} {variables} dhclient: Copyright {variables} Internet Systems Consortium."}
+{"query": "Oct  5 09:52:56 RH-AD dhclient[1500]: Listening on LPF/eth0/00:15:5d:87:2d:4b", "answer": "{variables} {variables} dhclient[{variables}]: Listening on LPF/{variables}/{variables}"}
+{"query": "Apr 16 12:56:18 pool dhclient: DHCPNAK from 192.168.0.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Feb 22 17:53:23 athlon64 dhclient: DHCPACK from 10.43.32.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Jan 11 12:49:38 lenovo-300 dhclient[2213]: Created duid \\000\\001\\000\\001\\036%\\306\\262\\030O2\\016v'.", "answer": "{variables} {variables} dhclient[{variables}]: Created duid {variables}."}
+{"query": "Dec 20 14:19:10 localhost dhclient: sit0: unknown hardware address type 776", "answer": "{variables} {variables} dhclient: {variables}: unknown hardware address type {variables}"}

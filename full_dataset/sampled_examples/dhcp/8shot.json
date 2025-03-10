@@ -1,0 +1,8 @@
+{"query": "Dec 10 22:20:32 localhost dhclient[417]: Copyright 2004-2013 Internet Systems Consortium.", "answer": "{variables} {variables} dhclient[{variables}]: Copyright {variables} Internet Systems Consortium."}
+{"query": "Jun 19 18:50:43 localhost dhclient[1560]: XMT: Request on enp2s0f0, interval 990ms.", "answer": "{variables} {variables} dhclient[{variables}]: XMT: {variables} on {variables}, interval {variables}."}
+{"query": "Apr  6 09:09:03 ab763 dhclient[3860]: XMT: Info-Request on enp1s0, interval 8050ms.", "answer": "{variables} {variables} dhclient[{variables}]: XMT: {variables} on {variables}, interval {variables}."}
+{"query": "Oct  5 09:52:56 RH-AD dhclient[1500]: Listening on LPF/eth0/00:15:5d:87:2d:4b", "answer": "{variables} {variables} dhclient[{variables}]: Listening on LPF/{variables}/{variables}"}
+{"query": "Mar  3 11:29:59 dhcp130-233 dhclient[3154]: Internet Systems Consortium DHCP Client 4.1.1-P1", "answer": "{variables} {variables} dhclient[{variables}]: Internet Systems Consortium DHCP Client {variables}"}
+{"query": "Apr 28 22:20:14 localhost dhclient[1356]: Created duid \\000\\004\\275Q[\\210\\305\\363K \\267\\266\\335\\226q\\017\\256\\202.", "answer": "{variables} {variables} dhclient[{variables}]: Created duid {variables}."}
+{"query": "May 25 19:12:26 host-083 dhclient[11707]: DHCPOFFER from 192.168.1.254", "answer": "{variables} {variables} dhclient[{variables}]: {variables} from {variables}"}
+{"query": "Jan  6 12:52:17 dagger-2 dhclient: receive_packet failed on bond0: Network is down", "answer": "{variables} {variables} dhclient: receive_packet failed on {variables}: Network is down"}

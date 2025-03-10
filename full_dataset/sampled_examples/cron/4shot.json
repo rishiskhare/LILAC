@@ -1,0 +1,4 @@
+{"query": "2017-07-19T05:15:01.486270-04:00 httpboot CRON[25030]: (root) CMD (   /usr/lib/SMT/bin/smt-repeated-register)", "answer": "{variables} {variables} CRON[{variables}]: ({variables}) CMD (   {variables})"}
+{"query": "2017-07-17T22:45:01.311799-04:00 httpboot CRON[16677]: (root) CMD (   /usr/lib/SMT/bin/smt-repeated-register)", "answer": "{variables} {variables} CRON[{variables}]: ({variables}) CMD (   {variables})"}
+{"query": "2017-07-17T03:45:01.751480-04:00 httpboot CRON[10890]: pam_unix(crond:session): session closed for user root", "answer": "{variables} {variables} CRON[{variables}]: pam_unix({variables}): session closed for user {variables}"}
+{"query": "2017-07-14T11:00:01.458775-04:00 httpboot cron[23930]: pam_unix(crond:session): session opened for user root by (uid=0)", "answer": "{variables} {variables} cron[{variables}]: pam_unix({variables}): session opened for user {variables} by (uid={variables})"}

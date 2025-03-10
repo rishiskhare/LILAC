@@ -7,11 +7,11 @@ import json
 from .parsing_cache import ParsingCache
 from .post_process import correct_single_template
 import google.generativeai as genai
-from dotenv import load_dotenv, dotenv_values 
+from dotenv import load_dotenv, dotenv_values
 
 load_dotenv()
 
-gemini_api_key = os.getenv("GEMINI_API_KEY")
+gemini_api_key = os.getenv("GOOGLE_API_KEY")
 openai_api_key = os.getenv("OPENAI_API_KEY")
 openai_api_base = os.getenv("OPENAI_API_BASE")
 openai.api_key = openai_api_key
@@ -19,6 +19,7 @@ openai.api_base = openai_api_base
 
 def infer_llm(instruction, exemplars, query, log_message, model_name='gemini-1.5-flash', temperature=0.0, max_tokens=2048):
     if "gemini" in model_name:
+        genai.configure(api_key=gemini_api_key)
         messages = [{"role": "user", "parts": instruction},
                     {"role": "model", "parts": "Sure, I can help you with log parsing."},
                     ]
@@ -65,7 +66,7 @@ def infer_llm(instruction, exemplars, query, log_message, model_name='gemini-1.5
                 response = model.generate_content(messages, generation_config=generation_config, stream=False)
                 print(response.text)
                 return response.text
-                
+
             except Exception as e:
                 print("Exception :", e)
                 if "list index out of range" in str(e):

@@ -13,5 +13,10 @@ full_dataset/Proxifier/
 full_dataset/Spark/
 full_dataset/Thunderbird/
 full_dataset/Zookeeper/
+full_dataset/audit/
+full_dataset/cron/
+full_dataset/dhcp/
+full_dataset/puppet/
+full_dataset/sshd/
 result/
 temp/

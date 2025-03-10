@@ -1,0 +1,32 @@
+{"query": "Aug  4 14:13:15 localhost dhclient[2234]: Listening on LPF/eth0/6c:0b:84:a3:ff:89", "answer": "{variables} {variables} dhclient[{variables}]: Listening on LPF/{variables}/{variables}"}
+{"query": "Mar  3 12:04:55 dhcp130-233 dhclient[1941]: All rights reserved.", "answer": "{variables} {variables} dhclient[{variables}]: All rights reserved."}
+{"query": "Jan 12 19:37:05 ovirt dhclient[5412]: exiting.", "answer": "{variables} {variables} dhclient[{variables}]: exiting."}
+{"query": "Jun 10 16:31:02 kite dhclient[16023]: Discarding packet with bogus hlen.", "answer": "{variables} {variables} dhclient[{variables}]: Discarding packet with bogus hlen."}
+{"query": "Dec 21 22:06:30 perricum dhclient: Sending on   LPF/eth1/00:0e:35:68:17:93", "answer": "{variables} {variables} dhclient: Sending on   LPF/{variables}/{variables}"}
+{"query": "Apr 15 22:04:35 jeffslaptop dhclient: yet read the README, please read it before requesting help.", "answer": "{variables} {variables} dhclient: yet read the README, please read it before requesting help."}
+{"query": "Sep 16 17:08:29 hb-130 dhclient: receive_packet failed on eth1: Network is down", "answer": "{variables} {variables} dhclient: receive_packet failed on {variables}: Network is down"}
+{"query": "Aug 15 14:10:54 localhost dhclient[8675]: dhclient.c:2707: Failed to send 300 byte long packet over ens4f0 interface.", "answer": "{variables} {variables} dhclient[{variables}]: dhclient.c:{variables}: Failed to send {variables} byte long packet over {variables} interface."}
+{"query": "Mar  3 11:29:59 dhcp130-233 dhclient[3154]: ", "answer": "{variables} {variables} dhclient[{variables}]:"}
+{"query": "Oct  5 09:46:47 RH-AD dhclient[1501]: All rights reserved.", "answer": "{variables} {variables} dhclient[{variables}]: All rights reserved."}
+{"query": "Sep 23 20:00:43 cornette-ftp dhclient: ", "answer": "{variables} {variables} dhclient:"}
+{"query": "Sep 23 20:00:47 cornette-ftp dhclient: Listening on LPF/sit0/", "answer": "{variables} {variables} dhclient: Listening on LPF/{variables}/"}
+{"query": "Sep 10 18:44:30 cornette-hda dhclient: No working leases in persistent database - sleeping.", "answer": "{variables} {variables} dhclient: No working leases in persistent database - sleeping."}
+{"query": "Apr 14 17:12:39 jeffslaptop dhclient: ", "answer": "{variables} {variables} dhclient:"}
+{"query": "Sep 19 08:34:47 dl-PC dhclient[872]: Listening on LPF/p1p1/98:4b:e1:8f:c4:d9", "answer": "{variables} {variables} dhclient[{variables}]: Listening on LPF/{variables}/{variables}"}
+{"query": "Dec 17 13:05:49 jenkins-vm-02 dhclient[1280]: suspect value in domain_name option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_name option - discarded"}
+{"query": "Oct 13 20:25:26 fedora-work dhclient[1210]: RCV: Reply message on wlp3s0 from fe80::ea94:f6ff:fe90:f71c.", "answer": "{variables} {variables} dhclient[{variables}]: RCV: Reply message on {variables} from {variables}."}
+{"query": "Dec 31 00:28:15 shredder-1-2 dhclient: can't create /var/lib/dhcp/dhclient-eth0.leases: Read-only file system ", "answer": "{variables} {variables} dhclient: can't create {variables}: Read-only file system"}
+{"query": "Dec 27 10:55:30 lago-rhv-suite-master-host-0 dhclient[13292]: exiting.", "answer": "{variables} {variables} dhclient[{variables}]: exiting."}
+{"query": "Aug 14 16:42:49 localhost dhclient[6179]: No DHCPOFFERS received.", "answer": "{variables} {variables} dhclient[{variables}]: No {variables} received."}
+{"query": "Sep  5 20:25:22 localhost dhclient[585]: suspect value in domain_search option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_search option - discarded"}
+{"query": "Dec 21 22:06:30 perricum dhclient: ", "answer": "{variables} {variables} dhclient:"}
+{"query": "Aug  2 09:27:26 localhost dhclient[685]: Packet received, but nothing done with it.", "answer": "{variables} {variables} dhclient[{variables}]: Packet received, but nothing done with it."}
+{"query": "Apr  8 21:30:20 jeffslaptop dhclient: Corrupt lease file - possible data loss!", "answer": "{variables} {variables} dhclient: Corrupt lease file - possible data loss!"}
+{"query": "Dec 27 10:55:30 lago-rhv-suite-master-host-0 dhclient[13292]: no link-local IPv6 address for on8cb982fe5b7a4", "answer": "{variables} {variables} dhclient[{variables}]: no link-local IPv6 address for {variables}"}
+{"query": "Jul 18 11:33:24 localhost dhclient[1569]: Copyright 2004-2010 Internet Systems Consortium.", "answer": "{variables} {variables} dhclient[{variables}]: Copyright {variables} Internet Systems Consortium."}
+{"query": "Sep 23 20:00:43 cornette-ftp dhclient: All rights reserved.", "answer": "{variables} {variables} dhclient: All rights reserved."}
+{"query": "Sep 11 10:04:57 cornette-hda dhclient: Sending on   LPF/eth0/52:54:05:e4:a4:39", "answer": "{variables} {variables} dhclient: Sending on   LPF/{variables}/{variables}"}
+{"query": "Feb  9 21:33:30 localhost dhclient: DHCPACK from 10.9.160.253", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "May 11 11:42:13 pc-110-cb dhclient[1132]: Invalid domain list.", "answer": "{variables} {variables} dhclient[{variables}]: Invalid domain list."}
+{"query": "Sep 10 17:51:45 cornette-hda dhclient: Internet Systems Consortium DHCP Client V3.0.1", "answer": "{variables} {variables} dhclient: Internet Systems Consortium DHCP Client V{variables}"}
+{"query": "Oct 14 08:24:06 fedora-work dhclient[1537]: message status code NotOnLink.", "answer": "{variables} {variables} dhclient[{variables}]: message status code {variables}."}

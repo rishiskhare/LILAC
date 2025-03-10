@@ -1,6 +1,6 @@
 benchmark_settings = {
     'HDFS': {
-        'log_file': 'HDFS/HDFS_2k.log',
+        'log_file': 'HDFS/HDFS_full.log',
         'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
         # 'regex': [r'blk_-?\d+', r'(\d+\.){3}\d+(:\d+)?'],
         'regex': [],
@@ -9,16 +9,16 @@ benchmark_settings = {
         },
 
     'Hadoop': {
-        'log_file': 'Hadoop/Hadoop_2k.log',
+        'log_file': 'Hadoop/Hadoop_full.log',
         'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>',
         'regex': [r'(\d+\.){3}\d+'],
         'st': 0.5,
-        'depth': 4        
+        'depth': 4
         },
 
     'Spark': {
-        'log_file': 'Spark/Spark_2k.log',
-        'log_format': '<Date> <Time> <Level> <Component>: <Content>', 
+        'log_file': 'Spark/Spark_full.log',
+        'log_format': '<Date> <Time> <Level> <Component>: <Content>',
         # 'regex': [r'(\d+\.){3}\d+', r'\b[KGTM]?B\b', r'([\w-]+\.){2,}[\w-]+'],
         'regex': [],
         'st': 0.5,
@@ -26,23 +26,23 @@ benchmark_settings = {
         },
 
     'Zookeeper': {
-        'log_file': 'Zookeeper/Zookeeper_2k.log',
+        'log_file': 'Zookeeper/Zookeeper_full.log',
         'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>',
         'regex': [r'(/|)(\d+\.){3}\d+(:\d+)?'],
         'st': 0.5,
-        'depth': 4        
+        'depth': 4
         },
 
     'BGL': {
-        'log_file': 'BGL/BGL_2k.log',
+        'log_file': 'BGL/BGL_full.log',
         'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
         'regex': [r'core\.\d+'],
         'st': 0.5,
-        'depth': 4        
+        'depth': 4
         },
 
     'HPC': {
-        'log_file': 'HPC/HPC_2k.log',
+        'log_file': 'HPC/HPC_full.log',
         'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>',
         'regex': [r'=\d+'],
         'st': 0.5,
@@ -50,40 +50,40 @@ benchmark_settings = {
         },
 
     'Thunderbird': {
-        'log_file': 'Thunderbird/Thunderbird_2k.log',
+        'log_file': 'Thunderbird/Thunderbird_full.log',
         'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
         # 'regex': [r'(\d+\.){3}\d+'],
         'regex': [],
         'st': 0.5,
-        'depth': 4        
+        'depth': 4
         },
 
     'Windows': {
-        'log_file': 'Windows/Windows_2k.log',
+        'log_file': 'Windows/Windows_full.log',
         'log_format': '<Date> <Time>, <Level>                  <Component>    <Content>',
         'regex': [r'0x.*?\s'],
         'st': 0.7,
-        'depth': 5      
+        'depth': 5
         },
 
     'Linux': {
-        'log_file': 'Linux/Linux_2k.log',
+        'log_file': 'Linux/Linux_full.log',
         'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
         'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}'],
         'st': 0.39,
-        'depth': 6        
+        'depth': 6
         },
 
     'Android': {
-        'log_file': 'Android/Android_2k.log',
+        'log_file': 'Android/Android_full.log',
         'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
         'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b'],
         'st': 0.2,
-        'depth': 6   
+        'depth': 6
         },
 
     'HealthApp': {
-        'log_file': 'HealthApp/HealthApp_2k.log',
+        'log_file': 'HealthApp/HealthApp_full.log',
         'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
         'regex': [],
         'st': 0.2,
@@ -91,15 +91,15 @@ benchmark_settings = {
         },
 
     'Apache': {
-        'log_file': 'Apache/Apache_2k.log',
+        'log_file': 'Apache/Apache_full.log',
         'log_format': '\[<Time>\] \[<Level>\] <Content>',
         'regex': [r'(\d+\.){3}\d+'],
         'st': 0.5,
-        'depth': 4        
+        'depth': 4
         },
 
     'Proxifier': {
-        'log_file': 'Proxifier/Proxifier_2k.log',
+        'log_file': 'Proxifier/Proxifier_full.log',
         'log_format': '\[<Time>\] <Program> - <Content>',
         'regex': [r'<\d+\ssec', r'([\w-]+\.)+[\w-]+(:\d+)?', r'\d{2}:\d{2}(:\d{2})*', r'[KGTM]B'],
         'st': 0.6,
@@ -107,15 +107,15 @@ benchmark_settings = {
         },
 
     'OpenSSH': {
-        'log_file': 'OpenSSH/OpenSSH_2k.log',
+        'log_file': 'OpenSSH/OpenSSH_full.log',
         'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
         'regex': [r'(\d+\.){3}\d+', r'([\w-]+\.){2,}[\w-]+'],
         'st': 0.6,
-        'depth': 5   
+        'depth': 5
         },
 
     'OpenStack': {
-        'log_file': 'OpenStack/OpenStack_2k.log',
+        'log_file': 'OpenStack/OpenStack_full.log',
         'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>',
         'regex': [r'((\d+\.){3}\d+,?)+', r'/.+?\s', r'\d+'],
         'st': 0.5,
@@ -123,10 +123,48 @@ benchmark_settings = {
         },
 
     'Mac': {
-        'log_file': 'Mac/Mac_2k.log',
+        'log_file': 'Mac/Mac_full.log',
         'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
         'regex': [r'([\w-]+\.){2,}[\w-]+'],
         'st': 0.7,
-        'depth': 6   
+        'depth': 6
         },
+
+
+    # Julien's custom datasets
+    'audit': {
+        'log_file': 'audit/audit_full.log',
+        'log_format': '<Content>',
+        'regex': [],
+        'st': 0.5,
+        'depth': 4
+    },
+    'cron': {
+        'log_file': 'cron/cron_full.log',
+        'log_format': '<Content>',
+        'regex': [],
+        'st': 0.5,
+        'depth': 4
+    },
+    'dhcp': {
+        'log_file': 'dhcp/dhcp_full.log',
+        'log_format': '<Content>',
+        'regex': [],
+        'st': 0.5,
+        'depth': 4
+    },
+    'audit': {
+        'log_file': 'puppet/puppet_full.log',
+        'log_format': '<Content>',
+        'regex': [],
+        'st': 0.5,
+        'depth': 4
+    },
+    'sshd': {
+        'log_file': 'sshd/sshd_full.log',
+        'log_format': '<Content>',
+        'regex': [],
+        'st': 0.5,
+        'depth': 4
+    },
 }

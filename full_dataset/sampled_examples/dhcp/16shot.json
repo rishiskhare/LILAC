@@ -1,0 +1,16 @@
+{"query": "Mar 10 00:14:16 puma25 dhclient[6851]: dhclient.c:2405: Failed to send 300 byte long packet over rhevm interface.", "answer": "{variables} {variables} dhclient[{variables}]: dhclient.c:{variables}: Failed to send {variables} byte long packet over {variables} interface."}
+{"query": "Sep  4 21:29:06 vega01 dhclient[25035]: bound to 10.35.128.22 -- renewal in 21400 seconds.", "answer": "{variables} {variables} dhclient[{variables}]: bound to {variables} -- renewal in {variables}."}
+{"query": "Apr  9 16:26:23 jeffslaptop dhclient: submitting bug reports and requests for help.", "answer": "{variables} {variables} dhclient: submitting bug reports and requests for help."}
+{"query": "Dec 21 22:06:30 perricum dhclient: Sending on   LPF/eth1/00:0e:35:68:17:93", "answer": "{variables} {variables} dhclient: Sending on   LPF/{variables}/{variables}"}
+{"query": "Nov  7 18:46:26 dhcp46-111 dhclient[795]: DHCPOFFER from 10.70.47.254", "answer": "{variables} {variables} dhclient[{variables}]: {variables} from {variables}"}
+{"query": "Jun 10 16:31:02 kite dhclient[16023]: Discarding packet with bogus hlen.", "answer": "{variables} {variables} dhclient[{variables}]: Discarding packet with bogus hlen."}
+{"query": "Apr  3 16:46:06 jeffslaptop dhclient: help directly to the authors of this software - please", "answer": "{variables} {variables} dhclient: help directly to the authors of this software - please"}
+{"query": "Apr 16 21:52:12 jeffslaptop dhclient: send them to the appropriate mailing list as described in", "answer": "{variables} {variables} dhclient: send them to the appropriate mailing list as described in"}
+{"query": "Feb 22 18:36:39 athlon64 dhclient: dhclient(5712) is already running - exiting. ", "answer": "{variables} {variables} dhclient: dhclient({variables}) is already running - exiting."}
+{"query": "Mar 10 07:22:57 puma25 dhclient[11386]: dhclient.c:2678: Failed to send 300 byte long packet over fallback interface.", "answer": "{variables} {variables} dhclient[{variables}]: dhclient.c:{variables}: Failed to send {variables} byte long packet over {variables} interface."}
+{"query": "Jun 18 18:02:43 localhost dhclient: sit0: unknown hardware address type 776 ", "answer": "{variables} {variables} dhclient: {variables}: unknown hardware address type {variables}"}
+{"query": "Mar  3 11:29:59 dhcp130-233 dhclient[3154]: All rights reserved.", "answer": "{variables} {variables} dhclient[{variables}]: All rights reserved."}
+{"query": "Sep 10 17:16:49 cornette-hda dhclient: DHCPNAK from 192.168.1.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}
+{"query": "Sep  5 20:25:22 localhost dhclient[585]: suspect value in domain_search option - discarded", "answer": "{variables} {variables} dhclient[{variables}]: suspect value in domain_search option - discarded"}
+{"query": "Sep 10 17:50:10 cornette-hda dhclient: All rights reserved.", "answer": "{variables} {variables} dhclient: All rights reserved."}
+{"query": "Apr 21 18:28:41 jeffslaptop dhclient: DHCPACK from 192.168.0.1", "answer": "{variables} {variables} dhclient: {variables} from {variables}"}

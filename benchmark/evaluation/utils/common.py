@@ -42,10 +42,27 @@ all_datasets = [
     "Spark",
     # "Windows",
     "Thunderbird",
+
+    # Julien's custom datasets
+    "audit",
+    "cron",
+    "dhcp",
+    "puppet",
+    "sshd",
 ]
 
-datasets = ['HDFS', 'Hadoop', 'Spark', 'Zookeeper', 'OpenStack', 'BGL', 'HPC', 'Thunderbird', 'Windows', 'Linux',
-            'Mac', 'Android', 'HealthApp', 'Apache', 'OpenSSH', 'Proxifier']  # to keep the order of the systems
+datasets = [
+
+    'HDFS', 'Hadoop', 'Spark', 'Zookeeper', 'OpenStack', 'BGL', 'HPC', 'Thunderbird', 'Windows', 'Linux',
+            'Mac', 'Android', 'HealthApp', 'Apache', 'OpenSSH', 'Proxifier',
+
+    # Julien's custom datasets
+    "audit",
+    "cron",
+    "dhcp",
+    "puppet",
+    "sshd",
+]  # to keep the order of the systems
 
 
 def sort_templates(templates):
@@ -104,7 +121,7 @@ def common_args():
     parser.add_argument('--model', type=str,
                         default="gpt-3.5-turbo-0613")
     parser.add_argument('--selection_method', type=str,
-                        default="LILAC")    
+                        default="LILAC")
     args = parser.parse_args()
     return args
 

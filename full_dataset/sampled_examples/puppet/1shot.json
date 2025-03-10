@@ -1,0 +1,1 @@
+{"query": "Mar 09 17:31:04 bat.localdomain puppet-agent[6262]: Failed to open TCP connection to bat.localdomain:8140 (Connection refused - connect(2) for \"bat.localdomain\" port 8140)", "answer": "{variables} {variables} puppet-agent[{variables}]: Failed to open TCP connection to {variables}:{variables} (Connection refused - connect(2) for \"{variables}\" port {variables})"}
